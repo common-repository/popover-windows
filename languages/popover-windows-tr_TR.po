@@ -1,0 +1,720 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Melodic Media
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-10 16:43+0200\n"
+"PO-Revision-Date: 2016-02-10 16:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: popoveroptions.php:15
+msgid "Theme with this name already exists.Please Change the name"
+msgstr "Bu isimde tema zaten adını değiştirme exists.Please"
+
+#: popoveroptions.php:16
+msgid "Window with this name already exists.Please Change the name"
+msgstr "Bu ada sahip penceresi zaten adını değiştirme exists.Please"
+
+#: popoveroptions.php:17
+msgid "Fill this field"
+msgstr "Bu alanı doldurmak"
+
+#: popoveroptions.php:18
+msgid "Please enter valid email address"
+msgstr "Lütfen Geçerli bir E-posta Adresi Girin"
+
+#: popoveroptions.php:19
+msgid "Enter only number"
+msgstr "Bir Sayı Girin"
+
+#: popoveroptions.php:429
+msgid "Change your title here!"
+msgstr "Burada başlığını değiştirin!"
+
+#: popoveroptions.php:430
+msgid "Change bottom text!"
+msgstr "Alt metin değiştirmek!"
+
+#: popoveroptions.php:447
+msgid "Popover Windows"
+msgstr "Popover Windows"
+
+#: popoveroptions.php:448
+msgid "Add New Popover Window"
+msgstr "Yeni Popover penceresi Ekle"
+
+#: popoveroptions.php:449
+msgid "My Themes"
+msgstr "Benim Temalar"
+
+#: popoveroptions.php:450
+msgid "Daily Stats"
+msgstr "günlük İstatistikler"
+
+#: popoveroptions.php:466 popoveroptions.php:524 popoveroptions.php:575
+#: popoveroptions.php:665 popoveroptions.php:861
+msgid "Melodic Media Popover Windows"
+msgstr "Melodic Media Popover Windows"
+
+#: popoveroptions.php:468
+msgid "My Popover Windows Daily Stats"
+msgstr "Benim Popover , Windows Günlük İstatistikler"
+
+#: popoveroptions.php:475 popoveroptions.php:584
+msgid "Popover Window Name"
+msgstr "Popover Pencere Adı"
+
+#: popoveroptions.php:475
+msgid "Imp. today"
+msgstr "gösterimler bugün"
+
+#: popoveroptions.php:475
+msgid "Opens today"
+msgstr "bugün açar"
+
+#: popoveroptions.php:475
+msgid "Clicks today"
+msgstr "Tıklama bugün"
+
+#: popoveroptions.php:481
+msgid "You have currently no stats for today"
+msgstr "Bugün için şu anda hiçbir istatistikleri var"
+
+#: popoveroptions.php:486 popoveroptions.php:543 popoveroptions.php:598
+msgid "Free version includes"
+msgstr "Ücretsiz sürümünü içerir"
+
+#: popoveroptions.php:487 popoveroptions.php:544 popoveroptions.php:599
+msgid "- Save and view daily stats for 1 window."
+msgstr "1. Kaydet ve 1 banner günlük istatistikleri görüntüleyebilir ."
+
+#: popoveroptions.php:488 popoveroptions.php:545 popoveroptions.php:600
+msgid "- Save only 1 new theme."
+msgstr "-Sadece 1 yeni teması."
+
+#: popoveroptions.php:490 popoveroptions.php:547 popoveroptions.php:602
+msgid "Full version includes"
+msgstr "Tam sürüm içerir"
+
+#: popoveroptions.php:491 popoveroptions.php:548 popoveroptions.php:603
+msgid "- Save unlimited windows."
+msgstr "-Sınırsız windows kaydedin."
+
+#: popoveroptions.php:492 popoveroptions.php:549 popoveroptions.php:604
+msgid "- Save unlimited themes."
+msgstr "-Sınırsız Temalar kaydedin."
+
+#: popoveroptions.php:493 popoveroptions.php:550 popoveroptions.php:605
+msgid "- Full stats for daily, weekly, monthly with 6 month history ."
+msgstr "-Tam istatistikleri için günlük, haftalık, aylık 6 ay geçmiş."
+
+#: popoveroptions.php:528
+msgid "My Popover Themes"
+msgstr "Benim Popover Temalar"
+
+#: popoveroptions.php:535
+msgid "Popover Theme Name"
+msgstr "Popover Tema Adı"
+
+#: popoveroptions.php:535 popoveroptions.php:584
+msgid "Actions"
+msgstr "Eylemler"
+
+#: popoveroptions.php:537 popoveroptions.php:589
+msgid "EDIT"
+msgstr "DÜZENLEME"
+
+#: popoveroptions.php:577
+msgid "My Popover Windows"
+msgstr "Benim Popover, Windows"
+
+#: popoveroptions.php:589
+msgid "PREVIEW"
+msgstr "ÖNİZLEME"
+
+#: popoveroptions.php:593
+msgid "You have currently no popover windows."
+msgstr "Şu anda hiçbir popover pencereler vardır."
+
+#: popoveroptions.php:669
+msgid "Edit Popover Window"
+msgstr "Düzenleme Popover Pencere"
+
+#: popoveroptions.php:672
+msgid "New Popover Window"
+msgstr "Yeni Popover Pencere"
+
+#: popoveroptions.php:767
+msgid "Window Name"
+msgstr "pencere Adı"
+
+#: popoveroptions.php:768
+msgid "Theme"
+msgstr "Tema"
+
+#: popoveroptions.php:781
+msgid "Window Title"
+msgstr "Window Title"
+
+#: popoveroptions.php:782
+msgid "Window Footer"
+msgstr "pencere Altbilgi"
+
+#: popoveroptions.php:783
+msgid "Popover Window Content"
+msgstr "Popover Pencere İçerik"
+
+#: popoveroptions.php:783
+msgid "URL"
+msgstr "URL"
+
+#: popoveroptions.php:783
+msgid "HTML"
+msgstr "HTML"
+
+#: popoveroptions.php:783
+msgid ""
+"(All popover windows are responsive by default, just make sure your URL or "
+"HTML window content is responsive.)"
+msgstr ""
+"(Tüm popover pencereleri sadece URL veya HTML pencere içeriğinin duyarlı "
+"olduğundan emin olun , varsayılan olarak duyarlı. )"
+
+#: popoveroptions.php:783
+msgid ""
+"To calculate clicks on your window add this code to onclick event in your "
+"code"
+msgstr ""
+"pencerenizin üzerinde tıklama hesaplamak için kod onclick olayı bu kodu "
+"ekleyin"
+
+#: popoveroptions.php:787
+msgid ""
+"Where My_Window is the name you selected for your window. Replace spaces in "
+"name with '_'."
+msgstr ""
+"Nerede My_Window Eğer pencere için seçilen adıdır. '_ ' Ile adında boşluk "
+"değiştirin."
+
+#: popoveroptions.php:790
+msgid "The HTML link code you can use to close this window is."
+msgstr "HTML bağlantı kodu Bu pencere kapatmak için kullanabilirsiniz."
+
+#: popoveroptions.php:791
+msgid "CLOSE THIS WINDOW"
+msgstr "Bu pencereyi kapatın"
+
+#: popoveroptions.php:793
+msgid "Launch Window URL"
+msgstr "Başlatma Pencere URL"
+
+#: popoveroptions.php:793
+msgid ""
+"(add any url but add the extension (.htm, .html, .php, .asp, etc. ) at the "
+"end such as"
+msgstr ""
+"(Sonunda gibi en uzantısı ( .htm , .html , .php , .asp , vs.) herhangi bir "
+"url eklemek, ancak eklemek"
+
+#: popoveroptions.php:796
+msgid "Copy Paste HTML Here"
+msgstr "İşte Yapıştır HTML kopyalayın"
+
+#: popoveroptions.php:799
+msgid "Launch window automatically after"
+msgstr "Fırlatma penceresi otomatik olarak sonra"
+
+#: popoveroptions.php:799
+msgid "seconds"
+msgstr "saniye"
+
+#: popoveroptions.php:800
+msgid "Add Cookie - Display only once, display again after"
+msgstr "Yalnızca bir kez Ekran sonra tekrar göstermek - Cookie ekle"
+
+#: popoveroptions.php:801
+msgid "hours"
+msgstr "saat"
+
+#: popoveroptions.php:803
+msgid "HTML for Window Launch Button"
+msgstr "Pencere Başlat Düğmesi için HTML"
+
+#: popoveroptions.php:804
+msgid ""
+"It could be text or image which when clicked should open Popover window."
+msgstr "Bu Popover pencereyi açmak tıklandığında metin veya resim olabilir."
+
+#: popoveroptions.php:808
+msgid "Add extra code when the popover window launches?"
+msgstr "popover penceresi başlattı ekstra kod eklemek ?"
+
+#: popoveroptions.php:808 popoveroptions.php:815
+msgid "Yes"
+msgstr "Evet"
+
+#: popoveroptions.php:809 popoveroptions.php:816
+msgid "No"
+msgstr "hayır"
+
+#: popoveroptions.php:809
+msgid "(the code to execute when popover window is launched)"
+msgstr "(Kod popover penceresi başlatıldığında çalıştırmak için )"
+
+#: popoveroptions.php:812
+msgid "Enter the code to add to window launch"
+msgstr "Pencere başlatmak eklemek için kodu girin"
+
+#: popoveroptions.php:815
+msgid "Add extra code to the close button?"
+msgstr "kapatma düğmesi ekstra kod eklemek ?"
+
+#: popoveroptions.php:816
+msgid "(the code to execute when close button is clicked)"
+msgstr "(Kod kapatma düğmesi tıklandığında yürütmek için )"
+
+#: popoveroptions.php:819
+msgid "Enter the code to add to close button"
+msgstr "düğmesine kapatmak eklemek için kodu girin"
+
+#: popoveroptions.php:821
+msgid "Show the banner on?"
+msgstr "banner gösterilsin mi?"
+
+#: popoveroptions.php:821
+msgid "All Pages"
+msgstr "Tüm sayfalar"
+
+#: popoveroptions.php:821
+msgid "HomePage Only"
+msgstr "Ana Sadece"
+
+#: popoveroptions.php:821
+msgid "Specific Pages Only"
+msgstr "Belirli Sayfalar Sadece"
+
+#: popoveroptions.php:824
+msgid "Page Titles"
+msgstr "Sayfa Başlıkları"
+
+#: popoveroptions.php:824
+msgid ""
+"Titles of the page separated by commas on which to show the banner.(Case "
+"Sensitive)"
+msgstr ""
+"banner göstermek için virgülle ayırarak sayfanın Başlıkları . ( Harfe "
+"Duyarlı )"
+
+#: popoveroptions.php:827
+msgid "Placement: Div ID"
+msgstr "Yerleşim : Div Kimliği"
+
+#: popoveroptions.php:827
+msgid ""
+"Id of div or any other html element  in which popover launch button should "
+"appear"
+msgstr ""
+"popover başlatma düğmesi görünmelidir hangi div veya diğer herhangi bir html "
+"elemanın id"
+
+#: popoveroptions.php:827
+msgid ""
+"Note If placing into a Post, manually add a new DIV layer in your post like "
+"this"
+msgstr ""
+"Not Mesajın içine yerleştirerek , el bu gibi yazı yeni bir DIV katman eklemek"
+
+#: popoveroptions.php:827
+msgid "Then add \"popoverdiv\" in the box above"
+msgstr "Sonra yukarıdaki kutuya \" popoverdiv \" eklemek"
+
+#: popoveroptions.php:827
+msgid "Placement of Popover Launch Button?"
+msgstr "Popover Başlat düğmesi Yerleştirme ?"
+
+#: popoveroptions.php:827
+msgid "Start of Div"
+msgstr "Div Başlangıcı"
+
+#: popoveroptions.php:827
+msgid "End of Div"
+msgstr "Div Sonu"
+
+#: popoveroptions.php:838
+msgid "Save Window"
+msgstr "Kaydet Penceresi"
+
+#: popoveroptions.php:865
+msgid "Edit Popover Theme"
+msgstr "Düzenleme Popover Tema"
+
+#: popoveroptions.php:868
+msgid "New Popover Theme"
+msgstr "Yeni Popover Tema"
+
+#: popoveroptions.php:959
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: popoveroptions.php:960
+msgid "Colors"
+msgstr "Renkler"
+
+#: popoveroptions.php:964
+msgid "Theme Name"
+msgstr "tema Adı"
+
+#: popoveroptions.php:966
+msgid "Size"
+msgstr "boyut"
+
+#: popoveroptions.php:968
+msgid "Position"
+msgstr "pozisyon"
+
+#: popoveroptions.php:973
+msgid "Your Title Here!"
+msgstr "İşte Başlık !"
+
+#: popoveroptions.php:974
+msgid "Your Footer Here!"
+msgstr "İşte Altbilgi !"
+
+#: popoveroptions.php:975
+msgid "Title Icon"
+msgstr "Başlık Simgesi"
+
+#: popoveroptions.php:977
+msgid "accept"
+msgstr "kabul etmek"
+
+#: popoveroptions.php:978
+msgid "add"
+msgstr "eklemek"
+
+#: popoveroptions.php:979
+msgid "browse"
+msgstr "göz"
+
+#: popoveroptions.php:980
+msgid "calendar"
+msgstr "takvim"
+
+#: popoveroptions.php:981
+msgid "cart"
+msgstr "araba"
+
+#: popoveroptions.php:982
+msgid "check"
+msgstr "ara"
+
+#: popoveroptions.php:983
+msgid "clipboard"
+msgstr "panoya"
+
+#: popoveroptions.php:984
+msgid "color wheel"
+msgstr "renk tekerleği"
+
+#: popoveroptions.php:985
+msgid "comments"
+msgstr "yorumlar"
+
+#: popoveroptions.php:986
+msgid "date"
+msgstr "tarih"
+
+#: popoveroptions.php:987
+msgid "default"
+msgstr "varsayılan"
+
+#: popoveroptions.php:988
+msgid "delete"
+msgstr "silmek"
+
+#: popoveroptions.php:989
+msgid "disk"
+msgstr "disk"
+
+#: popoveroptions.php:990
+msgid "email"
+msgstr "E-posta"
+
+#: popoveroptions.php:991
+msgid "error"
+msgstr "hata"
+
+#: popoveroptions.php:992
+msgid "folder"
+msgstr "Klasör"
+
+#: popoveroptions.php:993
+msgid "gear"
+msgstr "vites"
+
+#: popoveroptions.php:994
+msgid "info"
+msgstr "bilgi"
+
+#: popoveroptions.php:995
+msgid "lightning"
+msgstr "yıldırım"
+
+#: popoveroptions.php:996
+msgid "lock"
+msgstr "kilitlemek"
+
+#: popoveroptions.php:997
+msgid "money"
+msgstr "para"
+
+#: popoveroptions.php:998
+msgid "page"
+msgstr "sayfa"
+
+#: popoveroptions.php:999
+msgid "page edit"
+msgstr "sayfa düzenleme"
+
+#: popoveroptions.php:1000
+msgid "people"
+msgstr "insanlar"
+
+#: popoveroptions.php:1001
+msgid "plug"
+msgstr "fiş"
+
+#: popoveroptions.php:1002
+msgid "search"
+msgstr "arama"
+
+#: popoveroptions.php:1003
+msgid "smiley"
+msgstr "smiley"
+
+#: popoveroptions.php:1004
+msgid "star"
+msgstr "star"
+
+#: popoveroptions.php:1005
+msgid "user"
+msgstr "kullanıcı"
+
+#: popoveroptions.php:1006
+msgid "wand"
+msgstr "asa"
+
+#: popoveroptions.php:1007
+msgid "warning"
+msgstr "uyarı"
+
+#: popoveroptions.php:1011 popoveroptions.php:1018
+msgid "Close Button"
+msgstr "Kapat Düğmesi"
+
+#: popoveroptions.php:1012
+msgid "Red Close Button"
+msgstr "Kırmızı Kapatma Düğmesi"
+
+#: popoveroptions.php:1013
+msgid "White Close Button"
+msgstr "Beyaz Kapatma Düğmesi"
+
+#: popoveroptions.php:1014
+msgid "Black Close Button"
+msgstr "Siyah Kapat Düğmesi"
+
+#: popoveroptions.php:1021
+msgid "Drag & Drop"
+msgstr "Sürükle bırak"
+
+#: popoveroptions.php:1024
+msgid "Resizable"
+msgstr "resizable"
+
+#: popoveroptions.php:1027
+msgid "Scrollbar"
+msgstr "Kaydırma çubuğu"
+
+#: popoveroptions.php:1030
+msgid "Fade in effect"
+msgstr "yürürlükte Fade"
+
+#: popoveroptions.php:1033
+msgid "Fade out effect"
+msgstr "etkisi fade out"
+
+#: popoveroptions.php:1036
+msgid "Clicking Outside Closes Window"
+msgstr "Dış tıklanması Pencere kapatır"
+
+#: popoveroptions.php:1039
+msgid "Outside Shadow Effect"
+msgstr "Gölge Etkisi dışında"
+
+#: popoveroptions.php:1042
+msgid "Shadow Options"
+msgstr "gölge Seçenekleri"
+
+#: popoveroptions.php:1049
+msgid "Z-index Level"
+msgstr "Z - index Seviye"
+
+#: popoveroptions.php:1055
+msgid "Title Font"
+msgstr "Başlık Yazı Tipi"
+
+#: popoveroptions.php:1067
+msgid "Font Style"
+msgstr "Yazı stili"
+
+#: popoveroptions.php:1084
+msgid "Title Color"
+msgstr "Başlık Rengi"
+
+#: popoveroptions.php:1089
+msgid "Title Padding"
+msgstr "Başlık Dolgu"
+
+#: popoveroptions.php:1104
+msgid "Round Corners"
+msgstr "yuvarlak Köşeler"
+
+#: popoveroptions.php:1121
+msgid "Window Color"
+msgstr "pencere Rengi"
+
+#: popoveroptions.php:1127
+msgid "Window Padding"
+msgstr "pencere Dolgu"
+
+#: popoveroptions.php:1143
+msgid "Page Border"
+msgstr "Sayfa Sınır"
+
+#: popoveroptions.php:1154
+msgid "Border Color"
+msgstr "Sınır rengi"
+
+#: popoveroptions.php:1161
+msgid "Page Color"
+msgstr "Sayfa Rengi"
+
+#: popoveroptions.php:1167
+msgid "Overlay Color"
+msgstr "bindirme rengi"
+
+#: popoveroptions.php:1173
+msgid "Overlay Opacity"
+msgstr "Yerleşimi Saydamlık"
+
+#: popoveroptions.php:1204
+msgid "Save Theme"
+msgstr "Temayı Kaydet"
+
+#: popoverwindow.php:32
+msgid "Buy Full Version"
+msgstr "Tam sürümü satın al"
+
+#: popoverwindow.php:4
+msgid "Popover Windows (Free Version)"
+msgstr "Popover Windows (özgür yorum)"
+
+#: popoverwindow.php:6
+msgid ""
+"Create professional popover windows for any page on your Wordpress site."
+msgstr ""
+"Wordpress sitede herhangi bir sayfa için profesyonel popover pencereleri "
+"oluşturun."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "Haftalık İstatistikler"
+
+#~ msgid "Monthly Stats"
+#~ msgstr "Aylık İstatistikler"
+
+#~ msgid "Month"
+#~ msgstr "Ay"
+
+#~ msgid "Date"
+#~ msgstr "tarih"
+
+#~ msgid "Week"
+#~ msgstr "Hafta"
+
+#~ msgid "Clicks"
+#~ msgstr "Tıklanma"
+
+#~ msgid "Impressions"
+#~ msgstr "gösterimler"
+
+#~ msgid "Opens"
+#~ msgstr "açar"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "Tıklama Oranı"
+
+#~ msgid "Monthly"
+#~ msgstr "Aylık"
+
+#~ msgid "Daily"
+#~ msgstr "Günlük"
+
+#~ msgid "Weekly"
+#~ msgstr "Haftalık"
+
+#~ msgid "Stats History"
+#~ msgstr "İstatistikler Tarih"
+
+#~ msgid "No history found."
+#~ msgstr "Hiçbir tarih bulunamadı."
+
+#~ msgid "My Popover Windows Monthly Stats"
+#~ msgstr "Benim Popover , Windows Aylık İstatistikleri"
+
+#~ msgid "Imp. this month"
+#~ msgstr "Gösterimler bu ay"
+
+#~ msgid "Opens this month"
+#~ msgstr "Bu ay açar"
+
+#~ msgid "Clicks this month"
+#~ msgstr "Bu ay Clicks"
+
+#~ msgid "History"
+#~ msgstr "tarih"
+
+#~ msgid "HISTORY"
+#~ msgstr "tarih"
+
+#~ msgid "You have currently no stats for this month"
+#~ msgstr "Bu ay için şu anda hiçbir istatistikleri var"
+
+#~ msgid "My Popover Windows Weekly Stats"
+#~ msgstr "Benim Popover , Windows Haftalık İstatistikler"
+
+#~ msgid "Imp. this week"
+#~ msgstr "gösterimler bugün"
+
+#~ msgid "Opens this week"
+#~ msgstr "bugün açar"
+
+#~ msgid "Clicks this week"
+#~ msgstr "Tıklama bugün"
+
+#~ msgid "You have currently no stats for this week"
+#~ msgstr "Bu hafta Şu anda istatistikleri var"
+
+#~ msgid "You have currently no popover themes"
+#~ msgstr "Şu anda hiçbir popover temaları var"

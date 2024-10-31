@@ -1,0 +1,1579 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Melodic Media
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-08 21:58+0500\n"
+"PO-Revision-Date: 2016-02-08 22:01+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+#: popoveroptions.php:15
+msgid "Theme with this name already exists.Please Change the name"
+msgstr "موضوع بهذا الاسم موجود مسبقاً. الرجاء تغيير الاسم"
+
+#: popoveroptions.php:16
+msgid "Window with this name already exists.Please Change the name"
+msgstr "نافذة بهذا الاسم موجود مسبقاً. الرجاء تغيير الاسم"
+
+#: popoveroptions.php:17
+msgid "Fill this field"
+msgstr "ملء هذا المجال"
+
+#: popoveroptions.php:18
+msgid "Please enter valid email address"
+msgstr "من فضلك أدخل عنوان بريد إلكتروني صحيح."
+
+#: popoveroptions.php:19
+msgid "Enter only number"
+msgstr "أدخل الرقم الوحيد"
+
+#: popoveroptions.php:429
+msgid "Change your title here!"
+msgstr "تغيير العنوان الخاص بك هنا!"
+
+#: popoveroptions.php:430
+msgid "Change bottom text!"
+msgstr "تغيير النص أسفل!"
+
+#: popoveroptions.php:447
+msgid "Popover Windows"
+msgstr "بوبوفير ويندوز"
+
+#: popoveroptions.php:448
+msgid "Add New Popover Window"
+msgstr "إضافة جديد بوبوفير ويندوز"
+
+#: popoveroptions.php:449
+msgid "My Themes"
+msgstr "بلدي المواضيع"
+
+#: popoveroptions.php:450
+msgid "Daily Stats"
+msgstr "الإحصائيات اليومية"
+
+#: popoveroptions.php:466 popoveroptions.php:524 popoveroptions.php:575
+#: popoveroptions.php:665 popoveroptions.php:861
+msgid "Melodic Media Popover Windows"
+msgstr "لحني وسائل الإعلام بوبوفير ويندوز"
+
+#: popoveroptions.php:468
+msgid "My Popover Windows Daily Stats"
+msgstr "بلادي بوبوفير ويندوز الإحصائيات اليومية"
+
+#: popoveroptions.php:475 popoveroptions.php:584
+msgid "Popover Window Name"
+msgstr "اسم بوبوفير ويندوز"
+
+#: popoveroptions.php:475
+msgid "Imp. today"
+msgstr "ظهور اليوم"
+
+#: popoveroptions.php:475
+msgid "Opens today"
+msgstr "يفتتح اليوم"
+
+#: popoveroptions.php:475
+msgid "Clicks today"
+msgstr "ينقر اليوم"
+
+#: popoveroptions.php:481
+msgid "You have currently no stats for today"
+msgstr "لديك حاليا لا توجد إحصائيات لهذا اليوم"
+
+#: popoveroptions.php:486 popoveroptions.php:543 popoveroptions.php:598
+msgid "Free version includes"
+msgstr "يتضمن الإصدار المجاني"
+
+#: popoveroptions.php:487 popoveroptions.php:544 popoveroptions.php:599
+msgid "- Save and view daily stats for 1 window."
+msgstr "-حفظ وعرض إحصائيات يومية للنافذة 1."
+
+#: popoveroptions.php:488 popoveroptions.php:545 popoveroptions.php:600
+msgid "- Save only 1 new theme."
+msgstr "--إنقاذ موضوع جديد 1 فقط."
+
+#: popoveroptions.php:490 popoveroptions.php:547 popoveroptions.php:602
+msgid "Full version includes"
+msgstr "يتضمن الإصدار الكامل"
+
+#: popoveroptions.php:491 popoveroptions.php:548 popoveroptions.php:603
+msgid "- Save unlimited windows."
+msgstr "-حفظ ويندوز غير محدود."
+
+#: popoveroptions.php:492 popoveroptions.php:549 popoveroptions.php:604
+msgid "- Save unlimited themes."
+msgstr "-حفظ المواضيع غير محدود."
+
+#: popoveroptions.php:493 popoveroptions.php:550 popoveroptions.php:605
+msgid "- Full stats for daily, weekly, monthly with 6 month history ."
+msgstr "-كامل إحصائيات يوميا، أسبوعيا، شهريا مع تاريخ 6 أشهر."
+
+#: popoveroptions.php:528
+msgid "My Popover Themes"
+msgstr "بلدي المواضيع بوبوفير"
+
+#: popoveroptions.php:535
+msgid "Popover Theme Name"
+msgstr "اسم موضوع بوبوفير"
+
+#: popoveroptions.php:535 popoveroptions.php:584
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: popoveroptions.php:537 popoveroptions.php:589
+msgid "EDIT"
+msgstr "تحرير"
+
+#: popoveroptions.php:577
+msgid "My Popover Windows"
+msgstr "بلدي ويندوز بوبوفير"
+
+#: popoveroptions.php:589
+msgid "PREVIEW"
+msgstr "معاينة"
+
+#: popoveroptions.php:593
+msgid "You have currently no popover windows."
+msgstr "لديك حاليا لا بوبوفير ويندوز"
+
+#: popoveroptions.php:669
+msgid "Edit Popover Window"
+msgstr "تحرير بوبوفير ويندوز"
+
+#: popoveroptions.php:672
+msgid "New Popover Window"
+msgstr " جديد بوبوفير ويندوز"
+
+#: popoveroptions.php:767
+msgid "Window Name"
+msgstr "اسم ويندوز"
+
+#: popoveroptions.php:768
+msgid "Theme"
+msgstr "موضوع"
+
+#: popoveroptions.php:781
+msgid "Window Title"
+msgstr "عنوان ويندو"
+
+#: popoveroptions.php:782
+msgid "Window Footer"
+msgstr " تذييل ويندوز"
+
+#: popoveroptions.php:783
+msgid "Popover Window Content"
+msgstr "محتوى  بوبوفير ويندوز"
+
+#: popoveroptions.php:783
+msgid "URL"
+msgstr "URL"
+
+#: popoveroptions.php:783
+msgid "HTML"
+msgstr "HTML"
+
+#: popoveroptions.php:783
+msgid ""
+"(All popover windows are responsive by default, just make sure your URL or "
+"HTML window content is responsive.)"
+msgstr ""
+"(جميع popover windows تستجيب بشكل افتراضي، فقط تأكد من عنوان URL الخاص بك أو "
+"محتوى HTML نافذة استجابة)."
+
+#: popoveroptions.php:783
+msgid ""
+"To calculate clicks on your window add this code to onclick event in your "
+"code"
+msgstr ""
+"لحساب النقرات على نافذتك إضافة هذه التعليمة البرمجية إلى الحدث onclick في "
+"التعليمات البرمجية الخاصة بك"
+
+#: popoveroptions.php:787
+msgid ""
+"Where My_Window is the name you selected for your window. Replace spaces in "
+"name with '_'."
+msgstr ""
+"حيث My_Window هو الاسم قمت بتحديدها للنافذة الخاصة بك. استبدال المسافات في "
+"اسم '_'."
+
+#: popoveroptions.php:790
+msgid "The HTML link code you can use to close this window is."
+msgstr "ارتباط تعليمات HTML البرمجية يمكنك استخدام لإغلاق هذا الإطار."
+
+#: popoveroptions.php:791
+msgid "CLOSE THIS WINDOW"
+msgstr "قم بإغلاق هذه النافذة"
+
+#: popoveroptions.php:793
+msgid "Launch Window URL"
+msgstr "نافذة الإطلاق URL"
+
+#: popoveroptions.php:793
+msgid ""
+"(add any url but add the extension (.htm, .html, .php, .asp, etc. ) at the "
+"end such as"
+msgstr ""
+"(إضافة أي عنوان url ولكن إضافة الملحق (.htm.html.php,.asp،، إلخ) في النهاية "
+"مثل"
+
+#: popoveroptions.php:796
+msgid "Copy Paste HTML Here"
+msgstr "نسخ لصق HTML هنا"
+
+#: popoveroptions.php:799
+msgid "Launch window automatically after"
+msgstr "إطلاق نافذة تلقائياً بعد"
+
+#: popoveroptions.php:799
+msgid "seconds"
+msgstr "ثوان "
+
+#: popoveroptions.php:800
+msgid "Add Cookie - Display only once, display again after"
+msgstr "إضافة ملف تعريف الارتباط-العرض مرة واحدة فقط، العرض مرة أخرى بعد"
+
+#: popoveroptions.php:801
+msgid "hours"
+msgstr "ساعات"
+
+#: popoveroptions.php:803
+msgid "HTML for Window Launch Button"
+msgstr "إتش تي أم ال لنافذة إطلاق زر"
+
+#: popoveroptions.php:804
+msgid ""
+"It could be text or image which when clicked should open Popover window."
+msgstr "يمكن أن يكون النص أو الصورة التي عند النقر فوق يجب فتح نافذة بوبوفير."
+
+#: popoveroptions.php:808
+msgid "Add extra code when the popover window launches?"
+msgstr "قم بإضافة تعليمات برمجية إضافية عندما تطلق النافذة بوبوفير؟"
+
+#: popoveroptions.php:808 popoveroptions.php:815
+msgid "Yes"
+msgstr "نعم"
+
+#: popoveroptions.php:809 popoveroptions.php:816
+msgid "No"
+msgstr "لا"
+
+#: popoveroptions.php:809
+msgid "(the code to execute when popover window is launched)"
+msgstr "(رمز لتنفيذ عندما يتم تشغيل نافذة بوبوفير)"
+
+#: popoveroptions.php:812
+msgid "Enter the code to add to window launch"
+msgstr "أدخل التعليمة البرمجية لإضافة إلى إطلاق نافذة"
+
+#: popoveroptions.php:815
+msgid "Add extra code to the close button?"
+msgstr "إضافة رمز إضافية إلى زر الإغلاق؟"
+
+#: popoveroptions.php:816
+msgid "(the code to execute when close button is clicked)"
+msgstr "(رمز لتنفيذ عندما يتم النقر على زر وثيقة)"
+
+#: popoveroptions.php:819
+msgid "Enter the code to add to close button"
+msgstr "أدخل رمز لإضافة زر لإغلاق"
+
+#: popoveroptions.php:821
+msgid "Show the banner on?"
+msgstr "عرض لافتة على؟"
+
+#: popoveroptions.php:821
+msgid "All Pages"
+msgstr "جميع الصفحات"
+
+#: popoveroptions.php:821
+msgid "HomePage Only"
+msgstr "الصفحة الرئيسية فقط"
+
+#: popoveroptions.php:821
+msgid "Specific Pages Only"
+msgstr "صفحات معينة فقط"
+
+#: popoveroptions.php:824
+msgid "Page Titles"
+msgstr "عنوان الصفحه"
+
+#: popoveroptions.php:824
+msgid ""
+"Titles of the page separated by commas on which to show the banner.(Case "
+"Sensitive)"
+msgstr "عناوين الصفحات مفصولة بفواصل التي لإظهار شعار (القضية الحساسة)"
+
+#: popoveroptions.php:827
+msgid "Placement: Div ID"
+msgstr "التنسيب: شعبة معرف"
+
+#: popoveroptions.php:827
+msgid ""
+"Id of div or any other html element  in which popover launch button should "
+"appear"
+msgstr "معرف div أو أي عنصر html أخرى في بوبوفير التي يجب أن يظهر زر التشغيل"
+
+#: popoveroptions.php:827
+msgid ""
+"Note If placing into a Post, manually add a new DIV layer in your post like "
+"this"
+msgstr ""
+"ملاحظة إذا وضع في المشاركة، يدويا إضافة طبقة DIV جديدة في رسالتك مثل هذا"
+
+#: popoveroptions.php:827
+msgid "Then add \"popoverdiv\" in the box above"
+msgstr "قم بإضافة \"popoverdiv\" في المربع أعلاه"
+
+#: popoveroptions.php:827
+msgid "Placement of Popover Launch Button?"
+msgstr "وضع زر إطلاق بوبوفير؟"
+
+#: popoveroptions.php:827
+msgid "Start of Div"
+msgstr "بداية الدرجة"
+
+#: popoveroptions.php:827
+msgid "End of Div"
+msgstr "نهاية الدرجة"
+
+#: popoveroptions.php:838
+msgid "Save Window"
+msgstr "حفظ النافذة"
+
+#: popoveroptions.php:865
+msgid "Edit Popover Theme"
+msgstr "تحرير موضوع بوبوفير"
+
+#: popoveroptions.php:868
+msgid "New Popover Theme"
+msgstr "بوبوفير موضوع جديد"
+
+#: popoveroptions.php:959
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: popoveroptions.php:960
+msgid "Colors"
+msgstr "الألوان"
+
+#: popoveroptions.php:964
+msgid "Theme Name"
+msgstr "اسم الموضوع"
+
+#: popoveroptions.php:966
+msgid "Size"
+msgstr "حجم"
+
+#: popoveroptions.php:968
+msgid "Position"
+msgstr "المنصب"
+
+#: popoveroptions.php:973
+msgid "Your Title Here!"
+msgstr "العنوان الخاص بك هنا!"
+
+#: popoveroptions.php:974
+msgid "Your Footer Here!"
+msgstr "تذييل الصفحة الخاصة بك هنا!"
+
+#: popoveroptions.php:975
+msgid "Title Icon"
+msgstr "عنوان أيقونة"
+
+#: popoveroptions.php:977
+msgid "accept"
+msgstr "يقبل"
+
+#: popoveroptions.php:978
+msgid "add"
+msgstr "اضف"
+
+#: popoveroptions.php:979
+msgid "browse"
+msgstr "يستعرض"
+
+#: popoveroptions.php:980
+msgid "calendar"
+msgstr "تقویم"
+
+#: popoveroptions.php:981
+msgid "cart"
+msgstr "عربة"
+
+#: popoveroptions.php:982
+msgid "check"
+msgstr "تحقق"
+
+#: popoveroptions.php:983
+msgid "clipboard"
+msgstr "الحافظة"
+
+#: popoveroptions.php:984
+msgid "color wheel"
+msgstr "عجلة الألوان"
+
+#: popoveroptions.php:985
+msgid "comments"
+msgstr "تعليقات"
+
+#: popoveroptions.php:986
+msgid "date"
+msgstr "التأريخ"
+
+#: popoveroptions.php:987
+msgid "default"
+msgstr "افتراضي"
+
+#: popoveroptions.php:988
+msgid "delete"
+msgstr "حذف"
+
+#: popoveroptions.php:989
+msgid "disk"
+msgstr "قالقرص"
+
+#: popoveroptions.php:990
+msgid "email"
+msgstr "بريد إلكتروني"
+
+#: popoveroptions.php:991
+msgid "error"
+msgstr "خطاء"
+
+#: popoveroptions.php:992
+msgid "folder"
+msgstr "المجلد"
+
+#: popoveroptions.php:993
+msgid "gear"
+msgstr "الترس"
+
+#: popoveroptions.php:994
+msgid "info"
+msgstr "معلومات"
+
+#: popoveroptions.php:995
+msgid "lightning"
+msgstr "برْق"
+
+#: popoveroptions.php:996
+msgid "lock"
+msgstr "قفل"
+
+#: popoveroptions.php:997
+msgid "money"
+msgstr "نقود"
+
+#: popoveroptions.php:998
+msgid "page"
+msgstr "الصفحه"
+
+#: popoveroptions.php:999
+msgid "page edit"
+msgstr "تحرير الصفحه"
+
+#: popoveroptions.php:1000
+msgid "people"
+msgstr "اشخاص"
+
+#: popoveroptions.php:1001
+msgid "plug"
+msgstr "قابس"
+
+#: popoveroptions.php:1002
+msgid "search"
+msgstr "البحث ‪…‬"
+
+#: popoveroptions.php:1003
+msgid "smiley"
+msgstr "سمايلي"
+
+#: popoveroptions.php:1004
+msgid "star"
+msgstr "نجمة"
+
+#: popoveroptions.php:1005
+msgid "user"
+msgstr "المستعمل"
+
+#: popoveroptions.php:1006
+msgid "wand"
+msgstr "العصا"
+
+#: popoveroptions.php:1007
+msgid "warning"
+msgstr "إنذار"
+
+#: popoveroptions.php:1011 popoveroptions.php:1018
+msgid "Close Button"
+msgstr "زر اغلاق"
+
+#: popoveroptions.php:1012
+msgid "Red Close Button"
+msgstr "زر إغلاق أحمر"
+
+#: popoveroptions.php:1013
+msgid "White Close Button"
+msgstr "زر إغلاق أبيض"
+
+#: popoveroptions.php:1014
+msgid "Black Close Button"
+msgstr "زر اغلاق أسود"
+
+#: popoveroptions.php:1021
+msgid "Drag & Drop"
+msgstr "اسحب واسقط"
+
+#: popoveroptions.php:1024
+msgid "Resizable"
+msgstr "يمكن تغيير حجم"
+
+#: popoveroptions.php:1027
+msgid "Scrollbar"
+msgstr "شريط تمرير"
+
+#: popoveroptions.php:1030
+msgid "Fade in effect"
+msgstr "تتلاشى في الواقع"
+
+#: popoveroptions.php:1033
+msgid "Fade out effect"
+msgstr "تتلاشى المفعول"
+
+#: popoveroptions.php:1036
+msgid "Clicking Outside Closes Window"
+msgstr "النقر فوق إغلاق خارج الإطار"
+
+#: popoveroptions.php:1039
+msgid "Outside Shadow Effect"
+msgstr "خارج تأثير الظل"
+
+#: popoveroptions.php:1042
+msgid "Shadow Options"
+msgstr "خيارات الظل"
+
+#: popoveroptions.php:1049
+msgid "Z-index Level"
+msgstr "مستوى فهرس Z"
+
+#: popoveroptions.php:1055
+msgid "Title Font"
+msgstr "نمط الخط العنوان"
+
+#: popoveroptions.php:1067
+msgid "Font Style"
+msgstr "نمط الخط"
+
+#: popoveroptions.php:1084
+msgid "Title Color"
+msgstr "لون العنوان"
+
+#: popoveroptions.php:1089
+msgid "Title Padding"
+msgstr "ترك مساحة العنوان"
+
+#: popoveroptions.php:1104
+msgid "Round Corners"
+msgstr "زوايا مستديرة"
+
+#: popoveroptions.php:1121
+msgid "Window Color"
+msgstr "لون الإطار"
+
+#: popoveroptions.php:1127
+msgid "Window Padding"
+msgstr "الحشو نافذة"
+
+#: popoveroptions.php:1143
+msgid "Page Border"
+msgstr "حدود الصفحة"
+
+#: popoveroptions.php:1154
+msgid "Border Color"
+msgstr "لون الحدود"
+
+#: popoveroptions.php:1161
+msgid "Page Color"
+msgstr "لون الصفحه"
+
+#: popoveroptions.php:1167
+msgid "Overlay Color"
+msgstr "تراكب اللون"
+
+#: popoveroptions.php:1173
+msgid "Overlay Opacity"
+msgstr "تراكب التعتيم"
+
+#: popoveroptions.php:1204
+msgid "Save Theme"
+msgstr "حفظ الموضوع"
+
+#: popoverwindow.php:32
+msgid "Buy Full Version"
+msgstr "شراء الإصدار الكامل"
+
+#: popoverwindow.php:4
+msgid "Popover Windows (Free Version)"
+msgstr "بوبوفير ويندوز (نسخة مجانية)"
+
+#: popoverwindow.php:6
+msgid ""
+"Create professional popover windows for any page on your Wordpress site."
+msgstr "إنشاء بوبوفير ويندوز المهنية لأي صفحة على موقع الويب الخاص بك وورد."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "الإحصاءات الأسبوعية"
+
+#~ msgid "Monthly Stats"
+#~ msgstr "الإحصاءات الشهرية"
+
+#~ msgid "Month"
+#~ msgstr "الشهر"
+
+#~ msgid "Date"
+#~ msgstr "التاريخ"
+
+#~ msgid "Week"
+#~ msgstr "أسبوع"
+
+#~ msgid "Clicks"
+#~ msgstr "نقرات"
+
+#~ msgid "Impressions"
+#~ msgstr "ظهور"
+
+#~ msgid "Opens"
+#~ msgstr "يفتح"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "نسبة النقر إلى الظهور"
+
+#~ msgid "Monthly"
+#~ msgstr "شهرياً"
+
+#~ msgid "Daily"
+#~ msgstr "يومي"
+
+#~ msgid "Weekly"
+#~ msgstr "اسبوعياً"
+
+#~ msgid "Stats History"
+#~ msgstr "احصائيات التاريخ"
+
+#~ msgid "No history found."
+#~ msgstr "لم يتم العثور على التاريخ."
+
+#~ msgid "My Popover Windows Monthly Stats"
+#~ msgstr "بلدي بوبوفير ويندوز الإحصاءات الشهرية"
+
+#~ msgid "Imp. this month"
+#~ msgstr "ظهور هذا الشهر"
+
+#~ msgid "Opens this month"
+#~ msgstr "يفتح هذا الشهر"
+
+#~ msgid "Clicks this month"
+#~ msgstr "ينقر هذا الشهر"
+
+#~ msgid "History"
+#~ msgstr "التاريخ"
+
+#~ msgid "HISTORY"
+#~ msgstr "التاريخ"
+
+#~ msgid "You have currently no stats for this month"
+#~ msgstr "لديك حاليا لا توجد إحصائيات لهذا الشهر"
+
+#~ msgid "My Popover Windows Weekly Stats"
+#~ msgstr "بلادي بوبوفير ويندوز الإحصائيات الأسبوعية"
+
+#~ msgid "Imp. this week"
+#~ msgstr "ظهور هذا الاسبوع"
+
+#~ msgid "Opens this week"
+#~ msgstr "يفتح هذا الأسبوع"
+
+#~ msgid "Clicks this week"
+#~ msgstr "ينقر هذا الأسبوع"
+
+#~ msgid "You have currently no stats for this week"
+#~ msgstr "لديك حاليا لا توجد إحصائيات لهذا الأسبوع"
+
+#~ msgid "You have currently no popover themes"
+#~ msgstr "لديك حاليا لا مواضيع بوبوفير"
+
+#~ msgid "Slide Banners"
+#~ msgstr "الشريحة لافتات"
+
+#~ msgid "Add New Slidebanner"
+#~ msgstr "إضافة جديد الشريحة لافتات"
+
+#~ msgid "No history found"
+#~ msgstr "لم يتم العثور على التاريخ"
+
+#~ msgid "Melodic Media Slide Banner"
+#~ msgstr "لحني وسائل الإعلام الشريحة لافتات"
+
+#~ msgid "My Slide Banners Monthly Stats"
+#~ msgstr "بلدي الشريحة لافتات الإحصاءات الشهرية"
+
+#~ msgid "Slide Banner"
+#~ msgstr "الشريحة لافتات"
+
+#~ msgid "Banner Name"
+#~ msgstr "اسم راية"
+
+#~ msgid "You have currently no slide banners."
+#~ msgstr "لديك حاليا لا الشريحة لافتات"
+
+#~ msgid "My Slide Banners Daily Stats"
+#~ msgstr "بلادي الشريحة لافتات الإحصائيات اليومية"
+
+#~ msgid "My Slide Banners Weekly Stats"
+#~ msgstr "بلادي الشريحة لافتات الإحصائيات الأسبوعية"
+
+#~ msgid "Melodic Media SlideBanner"
+#~ msgstr "لحني وسائل الإعلام الشريحة لافتات"
+
+#~ msgid "My Slide Banners"
+#~ msgstr "بلادي الشريحة لافتات"
+
+#~ msgid "SlideBanner"
+#~ msgstr "الشريحة لافتات"
+
+#~ msgid "You have currently no slidebanners."
+#~ msgstr "لديك حاليا لا الشريحة لافتات"
+
+#~ msgid "Uploading"
+#~ msgstr "تحميل"
+
+#~ msgid "Only jpeg, png and gif images could be uploaded"
+#~ msgstr "يمكن تحميل الصور ,PNG,GIF,JPEG فقط"
+
+#~ msgid "Size exceeds 50kb limit"
+#~ msgstr "يتجاوز الحد الأقصى لحجم 50KB"
+
+#~ msgid "Uploaded"
+#~ msgstr "تم الرفع."
+
+#~ msgid "Size exceeds 250kb limit"
+#~ msgstr "يتجاوز الحد الأقصى لحجم 250KB"
+
+#~ msgid "Only swf file could be uploaded"
+#~ msgstr "يمكن تحميل ملف فرنك سويسري الوحيد"
+
+#~ msgid "Please make sure main banner image is uploaded"
+#~ msgstr "الرجاء التأكد من تحميل صورة الشعار الرئيسي"
+
+#~ msgid "Please make sure first and main flash banner files are uploaded"
+#~ msgstr "الرجاء التأكد من تحميل ملفات فلاش راية الأولى والرئيسية"
+
+#~ msgid "Please make sure close button image is uploaded"
+#~ msgstr "يرجى التأكد يتم تحميل المؤكد صورة زر وثيقة"
+
+#~ msgid "Please make sure backup image is uploaded"
+#~ msgstr "يرجى التأكد يتم تحميل المؤكد صورة احتياطية"
+
+#~ msgid "Banner with this name already exists.Please Change the name"
+#~ msgstr "هذا الاسم موجود مسبقاً."
+
+#~ msgid "Previous Image deleted. Make sure to save banner"
+#~ msgstr "الصورة السابقة حذفها. تأكد من حفظ راية"
+
+#~ msgid "Previous flash deleted. Make sure to save banner"
+#~ msgstr "فلاش السابق حذفها. تأكد من حفظ راية"
+
+#~ msgid "Correct Errors"
+#~ msgstr "أخطاء الصحيحة"
+
+#~ msgid "Please make sure open button image is uploaded"
+#~ msgstr "الرجاء التأكد من تحميل صورة الزر فتح"
+
+#~ msgid "Edit SlideBanner"
+#~ msgstr "تحرير الشريحة لافتات"
+
+#~ msgid "New SlideBanner"
+#~ msgstr " جديد الشريحة لافتات"
+
+#~ msgid "Banner Type"
+#~ msgstr "نوع الرابط"
+
+#~ msgid "Image Banner"
+#~ msgstr "صورة اللافتة"
+
+#~ msgid "HTML Banner"
+#~ msgstr "HTML راية"
+
+#~ msgid "Flash Banner"
+#~ msgstr "فلاش لافتة إعلانية"
+
+#~ msgid "Scroll with Page"
+#~ msgstr "التمرير بالصفحة"
+
+#~ msgid "Show the open banner first?"
+#~ msgstr "إظهار شعار فتح أولاً؟"
+
+#~ msgid "Banner will disappear when you click close button?"
+#~ msgstr "شعار سوف تختفي عندما قمت بالنقر فوق الزر إغلاق؟"
+
+#~ msgid "Show the banner only once per day?"
+#~ msgstr "عرض راية مرة واحدة فقط في اليوم الواحد؟"
+
+#~ msgid "Change Image (jpg, gif, png, max file size 250kb)"
+#~ msgstr "تغيير صورة (JPG، GIF، PNG، ملف الحد الأقصى لحجم 250KB)"
+
+#~ msgid "Upload your Image (jpg, gif, png, max file size 250kb)"
+#~ msgstr "تحميل صورة الخاص بك (JPG، GIF، PNG، ملف الحد الأقصى لحجم 250KB)"
+
+#~ msgid "Please set the URL you want it to link to http://"
+#~ msgstr "يرجى وضع عنوان الموقع الذي تريد أن تصل إلى http: //"
+
+#~ msgid "Open link in new window?"
+#~ msgstr "افتح الرابط في نافذة جديدة"
+
+#~ msgid ""
+#~ "In your html code include this code in onclick event or href of open "
+#~ "button\n"
+#~ "  to open banner"
+#~ msgstr ""
+#~ "في التعليمات البرمجية ل html الخاصة بك تتضمن هذه التعليمات البرمجية في "
+#~ "الحدث onclick أو href لزر فتح لفتح لافتة"
+
+#~ msgid ""
+#~ "If you want to track clicks on your main html banner\n"
+#~ "  add this code to onclick event of your ad link"
+#~ msgstr ""
+#~ "إذا كنت تريد أن تتبع النقرات على لافتة أتش تي أم أل الرئيسي إضافة هذا "
+#~ "الرمز إلى الحدث onClick ارتباط إعلانك"
+
+#~ msgid ""
+#~ "where 'enter_banner_name' is the name of your slide banner.Make sure that "
+#~ "you replace the spaces in name with '_'."
+#~ msgstr ""
+#~ "حيث 'enter_banner_name' هو اسم الشريحة الشعار الخاص بك. تأكد من أنه يمكنك "
+#~ "استبدال المسافات في اسم '_'."
+
+#~ msgid "Main Banner Type"
+#~ msgstr "الرئيسية راية نوع"
+
+#~ msgid "Html Code"
+#~ msgstr "كود HTML"
+
+#~ msgid "External file"
+#~ msgstr "ملف خارجي"
+
+#~ msgid "Enter HTML Code for your Main Banner"
+#~ msgstr "أدخل الكود للراية الرئيسية الخاصة بك"
+
+#~ msgid "Enter full Link for your Main Banner File"
+#~ msgstr "أدخل رابط الكامل لجهودكم الملف راية الرئيسية"
+
+#~ msgid ""
+#~ "The file could be .html or .php e.g 'http://www.someserver.com/somefile."
+#~ "php'"
+#~ msgstr ""
+#~ "يمكن أتش تي أم أل الملف أو فب سبيل المثال 'http://www.someserver.com/"
+#~ "somefile.php \""
+
+#~ msgid "Enter the width of main html banner"
+#~ msgstr "أدخل عرض راية أتش تي أم أل الرئيسي"
+
+#~ msgid "Enter the heigth of main html banner"
+#~ msgstr "أدخل heigth شعار أتش تي أم أل الرئيسي"
+
+#~ msgid ""
+#~ "If you want to track clicks on flash banner.\n"
+#~ "  Add this Actionscript on Ad link"
+#~ msgstr ""
+#~ "إذا كنت تريد أن تتبع النقرات على لافتة فلاش. إضافة هذه أكشن على رابط "
+#~ "الإعلان"
+
+#~ msgid "Change main banner flash file(swf)"
+#~ msgstr "تغيير الشعار الرئيسي file(swf) فلاش"
+
+#~ msgid "Upload your flash file(swf)"
+#~ msgstr "تحميل الخاص بك file(swf) فلاش"
+
+#~ msgid "Will you have a close button in your flash file?"
+#~ msgstr "سيكون لديك زر الإغلاق في ملف الفلاش الخاص بك؟"
+
+#~ msgid ""
+#~ "Add a visible close button in your main banner flash file.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "إضافة زر إغلاق مرئية في ملف راية فلاش الرئيسي الخاص بك. على هذا الزر "
+#~ "إضافة هذا أكشن"
+
+#~ msgid "To close banner on rollover add this Actionscript"
+#~ msgstr "ليغلق افتة على التمديد إضافة هذا أكشن"
+
+#~ msgid "Do you want to have backup image for your flash file?"
+#~ msgstr "هل تريد أن يكون صورة احتياطية لملف الفلاش الخاص بك؟"
+
+#~ msgid "Upload your backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "تحميل صورة النسخة الاحتياطية الخاصة بك (jpg، gif، بابوا نيو غينيا، حجم "
+#~ "الملف الحد الأقصى 250 كيلو بايت)"
+
+#~ msgid "Slide Direction"
+#~ msgstr "اتجاه الشريحة"
+
+#~ msgid "Top"
+#~ msgstr "اعلى"
+
+#~ msgid "Right"
+#~ msgstr "يمين"
+
+#~ msgid "Bottom"
+#~ msgstr "اسفل"
+
+#~ msgid "Left"
+#~ msgstr "يسار"
+
+#~ msgid "Slide Position"
+#~ msgstr "موقف الشريحة"
+
+#~ msgid "Top, Right, Bottom, Left,"
+#~ msgstr "أعلى، يمين، أسفل، يسار،"
+
+#~ msgid ""
+#~ "(Which ever option you choose above that will apply here) 0 = the center, "
+#~ "100 mean 100 pixels from the center"
+#~ msgstr ""
+#~ "(الخيار من أي وقت مضى، التي اخترت أعلاه التي سوف تطبق هنا) 0 = مركز, يعني "
+#~ "100 100 بكسل من المركز"
+
+#~ msgid "Second Position"
+#~ msgstr "الموضع الثاني"
+
+#~ msgid "Use a Open button?"
+#~ msgstr "استخدام زر فتح؟"
+
+#~ msgid "Open Button"
+#~ msgstr "زر فتح"
+
+#~ msgid "Use our generic open button"
+#~ msgstr "استخدام زر فتح عامة لدينا"
+
+#~ msgid "Or, Upload your own"
+#~ msgstr "أو تحميل بنفسك"
+
+#~ msgid "Select 1 open image"
+#~ msgstr "حدد صورة مفتوحة 1"
+
+#~ msgid "Upload your Image (jpg, gif, png, max file size 50kb)"
+#~ msgstr "تحميل صورة الخاص بك (JPG، GIF، PNG، ملف الحد الأقصى لحجم 50KB)"
+
+#~ msgid "Open button CSS"
+#~ msgstr "زر فتح المغلق"
+
+#~ msgid "Use a Close button?"
+#~ msgstr "استخدام الزر إغلاق؟"
+
+#~ msgid "Use our generic close button"
+#~ msgstr "استخدام لدينا زر قريب عام"
+
+#~ msgid "Select 1 close image"
+#~ msgstr "حدد 1 صورة وثيقة"
+
+#~ msgid "Close button CSS"
+#~ msgstr "زر إغلاق المغلق"
+
+#~ msgid "Set Placement of close button"
+#~ msgstr "تعيين موضع زر الإغلاق"
+
+#~ msgid "Top-Left"
+#~ msgstr "أعلي يسار"
+
+#~ msgid "Top-Right"
+#~ msgstr "أعلي يمين"
+
+#~ msgid "Bottom-Left"
+#~ msgstr "اسفل يسار"
+
+#~ msgid "Bottom-Right"
+#~ msgstr "اسفل يمين"
+
+#~ msgid "Will your banner auto-open?"
+#~ msgstr "سوف الشعار الخاص بك لصناعة السيارات في فتح؟"
+
+#~ msgid "Auto-open the banner after"
+#~ msgstr "لصناعة السيارات في فتح لواء بعد"
+
+#~ msgid "seconds  - Set 0 for right away"
+#~ msgstr "ثوان - تعيين 0 لالفور."
+
+#~ msgid "Will your banner auto-close?"
+#~ msgstr "هل لديك شعار السيارات عن قرب؟"
+
+#~ msgid "Auto-close the banner after"
+#~ msgstr "لصناعة السيارات في إغلاق راية بعد"
+
+#~ msgid "seconds  - Default is set to 10"
+#~ msgstr "ثواني - تم تعيين الافتراضي إلى 10"
+
+#~ msgid "Screen size to display on"
+#~ msgstr "حجم الشاشة لعرضها على"
+
+#~ msgid "All Sizes"
+#~ msgstr "جميع المقاسات"
+
+#~ msgid "Desktop Only"
+#~ msgstr "سطح المكتب فقط"
+
+#~ msgid "Tablet Only"
+#~ msgstr "قرص فقط"
+
+#~ msgid "Mobile Only"
+#~ msgstr "الجوال فقط"
+
+#~ msgid "Screen Width"
+#~ msgstr "عرض الشاشة"
+
+#~ msgid "Preview Banner"
+#~ msgstr "معاينة راية"
+
+#~ msgid "Save Banner"
+#~ msgstr "حفظ راية"
+
+#~ msgid ""
+#~ "Create professional slide banners for any page on your Wordpress site."
+#~ msgstr "إنشاء الشرائح المهنية لافتات لأي صفحة على موقع الويب الخاص بك وورد."
+
+#~ msgid "Push Down Banners"
+#~ msgstr "دفع أسفل لافتات"
+
+#~ msgid "Add New Pushdown Banner"
+#~ msgstr "إضافة جديد دفع أسفل لافتات"
+
+#~ msgid "Melodic Media Push Down Banner"
+#~ msgstr "لحني وسائل الإعلام دفع أسفل لافتات"
+
+#~ msgid "My Push Down Banners Daily Stats"
+#~ msgstr "صوري دفع أسفل لافتات يوميا إحصائيات"
+
+#~ msgid "Push Down Banner"
+#~ msgstr " دفع أسفل لافتات"
+
+#~ msgid "You have currently no push down banners."
+#~ msgstr "لديك حاليا لا دفع أسفل لافتات."
+
+#~ msgid "My Push Down Banners Weekly Stats"
+#~ msgstr "دفع أسفل لافتات الإحصائيات الأسبوعية"
+
+#~ msgid "My Push Down Banners Monthly Stats"
+#~ msgstr "دفع أسفل لافتات الإحصائيات الشهرية"
+
+#~ msgid "My Push Down Banners"
+#~ msgstr "صوري دفع أسفل لافتات"
+
+#~ msgid "Please make sure first banner, main banner images are uploaded"
+#~ msgstr "يرجى التأكد من راية الأول، يتم تحميل الصور راية الرئيسية"
+
+#~ msgid ""
+#~ "Please make sure first banner, main banner and close button images are "
+#~ "uploaded"
+#~ msgstr ""
+#~ "الرجاء التأكد من الشعار الأول والشعار الرئيسي والزر إغلاق الصور التي تم "
+#~ "تحميلها"
+
+#~ msgid "Please make sure close button and main banner images are uploaded"
+#~ msgstr "الرجاء التأكد من زر إغلاق والشعار الرئيسي الصور التي تم تحميلها"
+
+#~ msgid ""
+#~ "Please make sure first flash banner, main flash banner , first backup and "
+#~ "main backup images are uploaded"
+#~ msgstr ""
+#~ "يرجى التأكد من أول لافتة فلاش، لافتة فلاش الرئيسي، والنسخ الاحتياطي الأول "
+#~ "والصور الاحتياطية الرئيسية التي تم تحميلها"
+
+#~ msgid ""
+#~ "Please make sure main flash banner and main backup images are uploaded"
+#~ msgstr ""
+#~ "الرجاء التأكد من الرئيسي لافتة فلاش وصور النسخ الاحتياطي الرئيسية التي تم "
+#~ "تحميلها"
+
+#~ msgid "Please make sure main flash banner file is uploaded"
+#~ msgstr "الرجاء التأكد من أن يتم تحميل الملف الرئيسي لافتة فلاش"
+
+#~ msgid "Edit Push Down Banner"
+#~ msgstr "تحرير دفع أسفل لافتات"
+
+#~ msgid "New Push Down Banner"
+#~ msgstr " جديد دفع أسفل لافتات"
+
+#~ msgid "Type of banner:"
+#~ msgstr "نوع من شعار:"
+
+#~ msgid ""
+#~ "There are 4 different kinds of HTML Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "وهناك 4 أنواع مختلفة من دفع HTML أسفل لافتات، حدد النمط الذي سوف ترغب في "
+#~ "إنشاء"
+
+#~ msgid "Option 1"
+#~ msgstr "الخيار 1"
+
+#~ msgid "2 html banners (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr "2 شعارات html (شعار فتح &amp; الشعار الرئيسي) + زر إغلاق"
+
+#~ msgid "Option 2"
+#~ msgstr "الخيار 2"
+
+#~ msgid "2 html banners (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr "2 شعارات html (شعار فتح &amp; الشعار الرئيسي) + السيارات-إغلاق"
+
+#~ msgid "Option 3"
+#~ msgstr "الخيار 3"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "1 إتش تي أم ال الشعار (شعار الرئيسية) + السيارات-يفتح الزر إغلاق"
+
+#~ msgid "Option 4"
+#~ msgstr "الخيار 4"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Open &amp; Close"
+#~ msgstr "1 إتش تي أم ال الشعار (شعار الرئيسية) + السيارات-فتح وإغلاق"
+
+#~ msgid "First/Open HTML Banner"
+#~ msgstr "الأول / فتح HTML راية:"
+
+#~ msgid ""
+#~ "In your html code include this code in onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "في الكود الخاص بك يتضمن هذا الرمز في الحدث onClick أو href لفتح راية أتش "
+#~ "تي أم أل الرئيسي"
+
+#~ msgid "OPEN BUTTON CODE"
+#~ msgstr "رمز الزر فتح"
+
+#~ msgid "CLICK TO OPEN"
+#~ msgstr "انقر لفتح"
+
+#~ msgid "OR"
+#~ msgstr "يا"
+
+#~ msgid "ROLLOVER TO OPEN"
+#~ msgstr "الانتقال إلى فتح"
+
+#~ msgid "Enter HTML Code for your First Banner"
+#~ msgstr "أدخل الكود للراية الأولى الخاصة بك"
+
+#~ msgid "Enter the width of first html banner"
+#~ msgstr "أدخل عرض أول راية أتش تي أم أل"
+
+#~ msgid "Enter the heigth of first html banner"
+#~ msgstr "أدخل heigth أول راية أتش تي أم أل"
+
+#~ msgid "When the HTML banner opens the first banner will disappear?"
+#~ msgstr "عندما يفتح شعار إتش تي أم ال سوف تختفي رأيه الأول؟"
+
+#~ msgid ""
+#~ "In your html code add toggle(); function to  onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "في التعليمات البرمجية ل html الخاص بك بإضافة toggle()؛ الدالة إلى الحدث "
+#~ "onclick أو href لفتح لافتة html الرئيسية"
+
+#~ msgid "Main HTML Banner"
+#~ msgstr "الرئيسية HTML راية:"
+
+#~ msgid "Do you want to add a Close Button?"
+#~ msgstr "هل تريد إضافة \"زر إغلاق\"؟"
+
+#~ msgid ""
+#~ "In your html code this code to  onclick event or href\n"
+#~ "  to close html banner"
+#~ msgstr ""
+#~ "في html رمز هذه التعليمة البرمجية للحدث onclick أو href لإغلاق شعار إتش "
+#~ "تي أم ال"
+
+#~ msgid "CLOSE BUTTON CODE"
+#~ msgstr "رمز الزر إغلاق"
+
+#~ msgid "CLICK TO CLOSE"
+#~ msgstr "انقر فوق \"إغلاق\"."
+
+#~ msgid "ROLLOVER TO CLOSE"
+#~ msgstr "الانتقال إلى إغلاق"
+
+#~ msgid "ROLLOFF TO CLOSE"
+#~ msgstr "رد إلى إغلاق"
+
+#~ msgid ""
+#~ "If you are using option first html banner disapper when main banner opens "
+#~ "then add toggle(0); to onlclick or href to close html banner"
+#~ msgstr ""
+#~ "إذا كنت تستخدم الخيار الأول ديسابير لافتة html عند فتح الشعار الرئيسي ثم "
+#~ "قم بإضافة toggle(0)؛ أونلكليك أو href لإغلاق شعار إتش تي أم ال"
+
+#~ msgid "Close Banner"
+#~ msgstr "إغلاق لافتة"
+
+#~ msgid "Change Image (jpg, gif, png, max file size 50kb)"
+#~ msgstr "تغيير صورة (JPG، GIF، PNG، ملف الحد الأقصى لحجم 50KB)"
+
+#~ msgid "Will you have an open button?"
+#~ msgstr "سيكون لديك زر فتح؟"
+
+#~ msgid ""
+#~ "Create your small first banner. Add a button that says Click here to "
+#~ "expand.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "إنشاء الشعار الخاص بك أول الصغيرة. أضف زر يقول انقر هنا لتوسيع.\n"
+#~ "  على هذا الزر إضافة هذا اكشن"
+
+#~ msgid "To expand banner on rollover add this Actionscript"
+#~ msgstr "لتوسيع نطاق رأيه في التمديد إضافة هذا اكشن"
+
+#~ msgid "Change First/Open banner flash file(swf)"
+#~ msgstr "التغيير الأول / فتح ملف راية فلاش (فرنك سويسري)"
+
+#~ msgid "Upload your First/Open banner flash file(swf)"
+#~ msgstr "تحميل الخاص بك أولاً/فتح لافتة file(swf) فلاش"
+
+#~ msgid "When the Main Flash banner opens the first banner will disappear?"
+#~ msgstr "عند فتح لافتة \"فلاش الرئيسية\" سوف تختفي رأيه الأول؟"
+
+#~ msgid "In your flash code add toggle(); function to   Actionscript"
+#~ msgstr ""
+#~ "في التعليمات البرمجية الخاصة بك فلاش إضافة toggle()؛ الدالة على اكشن"
+
+#~ msgid ""
+#~ "And if you have your own flash close button \n"
+#~ " On that button add this Actionscript"
+#~ msgstr ""
+#~ "وإذا كان لديك الخاص بك الزر إغلاق الفلاش على هذا الزر إضافة هذا اكشن"
+
+#~ msgid "Upload your main banner flash file(swf)"
+#~ msgstr "تحميل file(swf) فلاش الشعار الرئيسي الخاص بك"
+
+#~ msgid "Set the height of your main banner in the first/opening state"
+#~ msgstr "تعيين ارتفاع الشعار الرئيسي الخاص بك في الحالة الأولى/افتتاح"
+
+#~ msgid "Will you have a regular close button under your flash banner?"
+#~ msgstr "يكون لديك زر إغلاق عادية تحت لافتة فلاش الخاصة بك؟"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 50kb)"
+#~ msgstr ""
+#~ "تغيير صورة الشعار الأول/فتح النسخ الاحتياطي (jpg، gif، بابوا نيو غينيا، "
+#~ "حجم الملف الحد الأقصى 50 كيلو بايت)"
+
+#~ msgid ""
+#~ "Upload your First/Open banner backup image (jpg, gif, png, max file size "
+#~ "50kb)"
+#~ msgstr ""
+#~ "تحميل أول / فتح صورة لافتة الاحتياطية الخاصة بك (JPG، GIF، PNG، ملف الحد "
+#~ "الأقصى لحجم 50KB)"
+
+#~ msgid "Change Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "تغيير صورة النسخ الاحتياطي الشعار الرئيسي (jpg، gif، بابوا نيو غينيا، حجم "
+#~ "الملف الحد الأقصى 250 كيلو بايت)"
+
+#~ msgid ""
+#~ "Upload your Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "تحميل الصورة الخاصة بك الرئيسية لافتة النسخ الاحتياطي (jpg، gif، بابوا "
+#~ "نيو غينيا، حجم الملف الحد الأقصى 250 كيلو بايت)"
+
+#~ msgid ""
+#~ "There are 4 different kinds of image Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "وهناك 4 أنواع مختلفة من دفع الصورة \"أسفل لافتات\"، حدد النمط الذي سوف "
+#~ "ترغب في إنشاء"
+
+#~ msgid "2 Images (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr "2 الصور (شعار فتح &amp; الشعار الرئيسي) + زر إغلاق"
+
+#~ msgid "2 Images (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr "2 الصور (شعار فتح &amp; الشعار الرئيسي) + السيارات-إغلاق"
+
+#~ msgid "1 Image (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "صورة 1 (الشعار الرئيسي) + السيارات-يفتح الزر إغلاق"
+
+#~ msgid "1 Image (Main Banner ) + Auto-Open &amp; Close"
+#~ msgstr "صورة 1 (الشعار الرئيسي) + السيارات-فتح وإغلاق"
+
+#~ msgid "First/Open Banner"
+#~ msgstr "الأول / فتح راية:"
+
+#~ msgid "When you click this image, will this image dissappear?"
+#~ msgstr "عند النقر فوق هذه الصورة، سوف تختفي هذه الصورة؟"
+
+#~ msgid "When you click this image, it will open the Push Down Banner?"
+#~ msgstr "عند النقر فوق هذه الصورة، فإنه سيتم فتح \"دفع الراية إلى أسفل\"؟"
+
+#~ msgid "If no, Please set the URL you want it to link to http://"
+#~ msgstr "إذا لا، الرجاء تعيين عنوان URL الذي تريد الارتباط إلى http://"
+
+#~ msgid "Main Banner"
+#~ msgstr "راية الرئيسية"
+
+#~ msgid "Make the banner Responsive?"
+#~ msgstr "جعل راية مجيب؟"
+
+#~ msgid "Set a background Image"
+#~ msgstr "تعيين خلفية الصورة"
+
+#~ msgid "Set a background Color"
+#~ msgstr "تعيين لون خلفية"
+
+#~ msgid "Background Color"
+#~ msgstr "لون الخلفية"
+
+#~ msgid "Set the Speed/Time which the banner will open or close"
+#~ msgstr "تعيين السرعة/الوقت الذي الراية سيتم فتح أو إغلاق"
+
+#~ msgid "Speed"
+#~ msgstr "السرعة"
+
+#~ msgid "Time"
+#~ msgstr "وقت"
+
+#~ msgid ""
+#~ "Titles of the page separated by commas on which to show the banner(Case "
+#~ "Sensitive).Type 'Home' as title to show on homepage"
+#~ msgstr ""
+#~ "عناوين الصفحة مفصولة بفواصل التي تريد إظهار الشعار (القضية الحساسة). اكتب "
+#~ "'الصفحة الرئيسية' كعنوان تظهر على الصفحة الرئيسية"
+
+#~ msgid "Note Only one Push down Banner can be shown on a single page."
+#~ msgstr "ملاحظة يمكن أن تظهر دفعة واحدة فقط أسفل الشعار على صفحة واحدة."
+
+#~ msgid "Placement: First Item on Page"
+#~ msgstr "التنسيب: البند الأول على الصفحة"
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which pushdown banner should "
+#~ "appear "
+#~ msgstr "معرف div أو أي عنصر html الأخرى في بوشدوون الذي يجب أن يظهر الشعار"
+
+#~ msgid "Then add \"pushdownpost\" in the box above"
+#~ msgstr "قم بإضافة \"pushdownpost\" في المربع أعلاه"
+
+#~ msgid "Placement of Push down Banner?"
+#~ msgstr "تحديد مستوى دفع أسفل لافتات"
+
+#~ msgid "Add CSS above your Push Down Banner"
+#~ msgstr "إضافة CSS فوق \"الشعار\" الخاص بك دفع أسفل لافتات"
+
+#~ msgid "Add CSS below your Push Down Banner"
+#~ msgstr "إضافة المغلق أدناه الخاص بك دفع أسفل لافتات"
+
+#~ msgid ""
+#~ "Create professional push down banners for any page on your Wordpress site."
+#~ msgstr "إنشاء دفع أسفل لافتات المهنية لأي صفحة على موقع وورد الخاص بك."
+
+#~ msgid "Expandable Banners"
+#~ msgstr "شعارات قابلة للتوسيع"
+
+#~ msgid "Add New Expandable Banner"
+#~ msgstr "إضافة جديد للتوسيع راية"
+
+#~ msgid "Click Through Rate (%)"
+#~ msgstr "نسبة النقر إلى الظهور (٪)"
+
+#~ msgid "Melodic Media Expandable Banner"
+#~ msgstr "لحني وسائل الإعلام توسيع راية"
+
+#~ msgid "My Expandable Banners Monthly Stats"
+#~ msgstr "بلدي توسيع لافتات الإحصاءات الشهرية"
+
+#~ msgid "Expandable Banner"
+#~ msgstr "توسيع راية"
+
+#~ msgid "You have currently no expandable banners"
+#~ msgstr "ليس لديك أي شعارات قابلة للتوسيع"
+
+#~ msgid "My Expandable Banners Daily Stats"
+#~ msgstr "بلدي توسيع لافتات الإحصائيات اليومية"
+
+#~ msgid "You have currently no expandable banners."
+#~ msgstr "ليس لديك أي شعارات قابلة للتوسيع."
+
+#~ msgid "My Expandable Banners Weekly Stats"
+#~ msgstr "بلدي توسيع لافتات الإحصاءات الأسبوعية"
+
+#~ msgid "My Expandable Banners"
+#~ msgstr "بلدي لافتات للتوسيع"
+
+#~ msgid "Edit Expandable Banner"
+#~ msgstr "تحرير توسيع راية"
+
+#~ msgid "New Expandable Banner"
+#~ msgstr "إضافة جديد للتوسيع راية"
+
+#~ msgid "First/Open Banner:"
+#~ msgstr "الأول / فتح راية:"
+
+#~ msgid "Expand On"
+#~ msgstr "قم بتوسيع في"
+
+#~ msgid "Rollover"
+#~ msgstr "يتدحرج"
+
+#~ msgid "Click"
+#~ msgstr "انقر"
+
+#~ msgid "2nd Banner:"
+#~ msgstr "ثانيا راية:"
+
+#~ msgid "First/Open Flash Banner:"
+#~ msgstr "الأول / فتح فلاش راية:"
+
+#~ msgid "Upload your first/open banner flash file(swf)"
+#~ msgstr "تحميل أول / فتح راية ملف فلاش (فرنك سويسري)"
+
+#~ msgid ""
+#~ "Add this Actionscript on link or button to open/expand banner on click"
+#~ msgstr "إضافة هذه أكشن على ارتباط أو زر لفتح / توسيع افتة على نقرة"
+
+#~ msgid "To open banner on rollover add this Actionscript"
+#~ msgstr "لفتح لافتة على التمديد إضافة هذا أكشن"
+
+#~ msgid "2nd Flash Banner:"
+#~ msgstr "ثانيا فلاش راية:"
+
+#~ msgid ""
+#~ "where 'enter_banner_name' is the name of your expandable banner.Make sure "
+#~ "that you replace the spaces in name with '_'."
+#~ msgstr ""
+#~ "حيث 'enter_banner_name \"هو اسم banner.Make قابلة للتوسيع الخاص بك من أن "
+#~ "قمت باستبدال مسافات في الاسم مع' _ '."
+
+#~ msgid "Change 2nd banner flash file(swf)"
+#~ msgstr "تغيير ثانيا ملف راية فلاش (فرنك سويسري)"
+
+#~ msgid "Upload your 2nd banner flash file(swf)"
+#~ msgstr "تحميل ثانيا ملف راية فلاش (فرنك سويسري)"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "التغيير الأول / فتح صورة لافتة احتياطية (JPG، GIF، PNG، ملف الحد الأقصى "
+#~ "لحجم 250KB)"
+
+#~ msgid "Change 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "تغيير 2ND صورة راية احتياطية (JPG، GIF، PNG، ملف الحد الأقصى لحجم 250KB)"
+
+#~ msgid ""
+#~ "Upload your 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "تحميل 2ND صورة راية الاحتياطية الخاصة بك (JPG، GIF، PNG، ملف الحد الأقصى "
+#~ "لحجم 250KB)"
+
+#~ msgid "First/Open HTML Banner:"
+#~ msgstr "الأول / فتح HTML راية:"
+
+#~ msgid "Main HTML Banner:"
+#~ msgstr "الرئيسية HTML راية:"
+
+#~ msgid "Does your Main HTML Code contains Javascript?"
+#~ msgstr "هل لديك الرئيسي كود HTML يحتوي جافا سكريبت؟"
+
+#~ msgid "Close Button:"
+#~ msgstr "زر اغلاق:"
+
+#~ msgid "Select 1 close image:"
+#~ msgstr "حدد 1 صورة وثيقة:"
+
+#~ msgid "Set Placement of close button:"
+#~ msgstr "تعيين موضع زر الإغلاق:"
+
+#~ msgid "Do you want close button on outside?"
+#~ msgstr "هل تريد زر الإغلاق في الخارج؟"
+
+#~ msgid "Enter the code to add to close button:"
+#~ msgstr "أدخل رمز لإضافة زر لإغلاق:"
+
+#~ msgid "Expand Direction:"
+#~ msgstr "توسيع الاتجاه:"
+
+#~ msgid "Left-Top"
+#~ msgstr "أعلى اليسار"
+
+#~ msgid "Center-Top"
+#~ msgstr "وسط الأعلى"
+
+#~ msgid "Right-Top"
+#~ msgstr "أعلى اليمين"
+
+#~ msgid "Left-Center"
+#~ msgstr "يسار الوسط"
+
+#~ msgid "Center-Center"
+#~ msgstr "مركز مركز"
+
+#~ msgid "Right-Center"
+#~ msgstr "وسط اليمين"
+
+#~ msgid "Left-Bottom"
+#~ msgstr "أسفل اليسار"
+
+#~ msgid "Center-Bottom"
+#~ msgstr "مركز القاع"
+
+#~ msgid "Right-Bottom"
+#~ msgstr "اسفل يمين"
+
+#~ msgid "Animate?"
+#~ msgstr "تحريك؟"
+
+#~ msgid "YES"
+#~ msgstr "نعم"
+
+#~ msgid "NO"
+#~ msgstr "لا"
+
+#~ msgid "Animation Speed"
+#~ msgstr "حركة سريعة"
+
+#~ msgid "Will this be a Corner Page Peel Banner?"
+#~ msgstr "سيكون هذا الركن الصفحة التقشير راية؟"
+
+#~ msgid "seconds  - Set 0 for right away."
+#~ msgstr "ثوان - تعيين 0 لالفور."
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which expandable banner should "
+#~ "appear"
+#~ msgstr "معرف شعبة أو أي عنصر HTML الأخرى التي يجب أن تظهر لافتة للتوسيع"
+
+#~ msgid "Then add \"expandablepost\" in the box above"
+#~ msgstr "ثم تضيف \"expandablepost\" في المربع أعلاه"
+
+#~ msgid "Placement of Expandable Banner?"
+#~ msgstr "وضع توسيع راية؟"
+
+#~ msgid "Add CSS above your Expandable Banner"
+#~ msgstr "إضافة CSS فوق بك توسيع راية"
+
+#~ msgid "Add CSS below your Expandable Banner"
+#~ msgstr "إضافة CSS أدناه بك توسيع راية"
+
+#~ msgid "Screen size to display on:"
+#~ msgstr "حجم الشاشة لعرضها على:"
+
+#~ msgid ""
+#~ "Create professional expandable banners for any page on your Wordpress "
+#~ "site."
+#~ msgstr "إنشاء لافتات توسيع المهنية لأي صفحة على موقع وورد الخاص بك."

@@ -1,0 +1,1180 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-05 18:49+0500\n"
+"PO-Revision-Date: 2016-02-05 18:51+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: popoveroptions.php:15
+msgid "Theme with this name already exists.Please Change the name"
+msgstr "Thème de ce nom déjà exists.Please Modifier le nom"
+
+#: popoveroptions.php:16
+msgid "Window with this name already exists.Please Change the name"
+msgstr "Fenêtre avec ce nom déjà exists.Please Changer le nom"
+
+#: popoveroptions.php:17
+msgid "Fill this field"
+msgstr "Remplissez ce champ"
+
+#: popoveroptions.php:18
+msgid "Please enter valid email address"
+msgstr "S'il vous plaît entrez l'adresse e-mail valide"
+
+#: popoveroptions.php:19
+msgid "Enter only number"
+msgstr "Entrez seul numéro"
+
+#: popoveroptions.php:429
+msgid "Change your title here!"
+msgstr "Changez votre titre ici!"
+
+#: popoveroptions.php:430
+msgid "Change bottom text!"
+msgstr "Changer le texte en bas!"
+
+#: popoveroptions.php:447
+msgid "Popover Windows"
+msgstr "fenêtres popover"
+
+#: popoveroptions.php:448
+msgid "Add New Popover Window"
+msgstr "Ajouter Nouvelle fenêtre popover"
+
+#: popoveroptions.php:449
+msgid "My Themes"
+msgstr "Mon thèmes"
+
+#: popoveroptions.php:450
+msgid "Daily Stats"
+msgstr "statistiques quotidienne"
+
+#: popoveroptions.php:466 popoveroptions.php:524 popoveroptions.php:575
+#: popoveroptions.php:665 popoveroptions.php:861
+msgid "Melodic Media Popover Windows"
+msgstr "Mélodique Media fenêtres popover"
+
+#: popoveroptions.php:468
+msgid "My Popover Windows Daily Stats"
+msgstr "Mon fenêtres popover  Statistiques Quotidiennes"
+
+#: popoveroptions.php:475 popoveroptions.php:584
+msgid "Popover Window Name"
+msgstr "fenêtre popover nome"
+
+#: popoveroptions.php:475
+msgid "Imp. today"
+msgstr "IMP. aujourd'hui"
+
+#: popoveroptions.php:475
+msgid "Opens today"
+msgstr "Ouvre aujourd'hui"
+
+#: popoveroptions.php:475
+msgid "Clicks today"
+msgstr "Clics aujourd'hui"
+
+#: popoveroptions.php:481
+msgid "You have currently no stats for today"
+msgstr "Vous avez actuellement Aucune donnée pour aujourd'hui"
+
+#: popoveroptions.php:486 popoveroptions.php:543 popoveroptions.php:598
+msgid "Free version includes"
+msgstr "Version gratuite comprend"
+
+#: popoveroptions.php:487 popoveroptions.php:544 popoveroptions.php:599
+msgid "- Save and view daily stats for 1 window."
+msgstr ""
+"-Enregistrer et consulter les statistiques quotidiennes pour 1 fenêtre."
+
+#: popoveroptions.php:488 popoveroptions.php:545 popoveroptions.php:600
+msgid "- Save only 1 new theme."
+msgstr "-Enregistrer seulement 1 nouveau thème."
+
+#: popoveroptions.php:490 popoveroptions.php:547 popoveroptions.php:602
+msgid "Full version includes"
+msgstr "La version complète inclut"
+
+#: popoveroptions.php:491 popoveroptions.php:548 popoveroptions.php:603
+msgid "- Save unlimited windows."
+msgstr "-Enregistrer fenetres illimités."
+
+#: popoveroptions.php:492 popoveroptions.php:549 popoveroptions.php:604
+msgid "- Save unlimited themes."
+msgstr "-Enregistrer les thèmes illimités."
+
+#: popoveroptions.php:493 popoveroptions.php:550 popoveroptions.php:605
+msgid "- Full stats for daily, weekly, monthly with 6 month history ."
+msgstr ""
+"-Full stats pour le quotidien, hebdomadaire, mensuelle, avec histoire de 6 "
+"mois."
+
+#: popoveroptions.php:528
+msgid "My Popover Themes"
+msgstr "Mon popover thèmes"
+
+#: popoveroptions.php:535
+msgid "Popover Theme Name"
+msgstr "popover thême nome"
+
+#: popoveroptions.php:535 popoveroptions.php:584
+msgid "Actions"
+msgstr "actes"
+
+#: popoveroptions.php:537 popoveroptions.php:589
+msgid "EDIT"
+msgstr "Modifier"
+
+#: popoveroptions.php:577
+msgid "My Popover Windows"
+msgstr "Mon fenêtres popover "
+
+#: popoveroptions.php:589
+msgid "PREVIEW"
+msgstr "APERÇU"
+
+#: popoveroptions.php:593
+msgid "You have currently no popover windows."
+msgstr "Vous avez actuellement pas de fenêtres de popover ."
+
+#: popoveroptions.php:669
+msgid "Edit Popover Window"
+msgstr "Modifier fenêtre popover"
+
+#: popoveroptions.php:672
+msgid "New Popover Window"
+msgstr "Nouvelle fenêtre popover"
+
+#: popoveroptions.php:767
+msgid "Window Name"
+msgstr "fenêtre  nome"
+
+#: popoveroptions.php:768
+msgid "Theme"
+msgstr "Thème"
+
+#: popoveroptions.php:781
+msgid "Window Title"
+msgstr "Titre de la fenêtre"
+
+#: popoveroptions.php:782
+msgid "Window Footer"
+msgstr "fenêtre Pied"
+
+#: popoveroptions.php:783
+msgid "Popover Window Content"
+msgstr "Contenu Popover fenêtre"
+
+#: popoveroptions.php:783
+msgid "URL"
+msgstr "URL"
+
+#: popoveroptions.php:783
+msgid "HTML"
+msgstr "HTML"
+
+#: popoveroptions.php:783
+msgid ""
+"(All popover windows are responsive by default, just make sure your URL or "
+"HTML window content is responsive.)"
+msgstr ""
+"( Toutes les fenêtres de popover répondent par défaut , il suffit de vous "
+"assurer que votre URL ou une fenêtre HTML contenu est respondent . )"
+
+#: popoveroptions.php:783
+msgid ""
+"To calculate clicks on your window add this code to onclick event in your "
+"code"
+msgstr ""
+"Pour calculer clics sur votre fenêtre ajouter ce code à l'événement onclick "
+"dans votre code"
+
+#: popoveroptions.php:787
+msgid ""
+"Where My_Window is the name you selected for your window. Replace spaces in "
+"name with '_'."
+msgstr ""
+"Où My_Window est le nom que vous avez choisi pour votre fenêtre . Remplacer "
+"les espaces dans le nom de '_' ."
+
+#: popoveroptions.php:790
+msgid "The HTML link code you can use to close this window is."
+msgstr ""
+"Le code de lien HTML vous pouvez utiliser pour fermer cette fenêtre est ."
+
+#: popoveroptions.php:791
+msgid "CLOSE THIS WINDOW"
+msgstr "Fermer la fenêtre"
+
+#: popoveroptions.php:793
+msgid "Launch Window URL"
+msgstr "Fenêtre de lancement URL"
+
+#: popoveroptions.php:793
+msgid ""
+"(add any url but add the extension (.htm, .html, .php, .asp, etc. ) at the "
+"end such as"
+msgstr ""
+"( Ajouter une URL , mais ajouter l'extension ( .htm , .html , .php , .asp , "
+"etc. ) à la fin comme"
+
+#: popoveroptions.php:796
+msgid "Copy Paste HTML Here"
+msgstr "Copier Coller HTML ici"
+
+#: popoveroptions.php:799
+msgid "Launch window automatically after"
+msgstr "enêtre de lancement automatiquement après"
+
+#: popoveroptions.php:799
+msgid "seconds"
+msgstr "secondes"
+
+#: popoveroptions.php:800
+msgid "Add Cookie - Display only once, display again after"
+msgstr "Ajouter Cookie - Afficher une seule fois , afficher à nouveau après"
+
+#: popoveroptions.php:801
+msgid "hours"
+msgstr "des heures"
+
+#: popoveroptions.php:803
+msgid "HTML for Window Launch Button"
+msgstr "HTML pour le bouton Fenêtre de lancement"
+
+#: popoveroptions.php:804
+msgid ""
+"It could be text or image which when clicked should open Popover window."
+msgstr ""
+"Il pourrait être un texte ou une image qui, lorsqu'il est cliqué devrait "
+"ouvrir la fenêtre Popover ."
+
+#: popoveroptions.php:808
+msgid "Add extra code when the popover window launches?"
+msgstr "Ajouter code supplémentaire lorsque la fenêtre de popover lance ?"
+
+#: popoveroptions.php:808 popoveroptions.php:815
+msgid "Yes"
+msgstr "Oui"
+
+#: popoveroptions.php:809 popoveroptions.php:816
+msgid "No"
+msgstr "Non"
+
+#: popoveroptions.php:809
+msgid "(the code to execute when popover window is launched)"
+msgstr "( Le code à exécuter lorsque la fenêtre de popover est lancé )"
+
+#: popoveroptions.php:812
+msgid "Enter the code to add to window launch"
+msgstr "Entrez le code à ajouter à lancement de la fenêtre"
+
+#: popoveroptions.php:815
+msgid "Add extra code to the close button?"
+msgstr "Ajouter du code supplémentaire pour le bouton de fermeture ?"
+
+#: popoveroptions.php:816
+msgid "(the code to execute when close button is clicked)"
+msgstr "( le code à exécuter lorsque le bouton de fermeture est cliqué )"
+
+#: popoveroptions.php:819
+msgid "Enter the code to add to close button"
+msgstr "Entrez le code à ajouter bouton pour fermer "
+
+#: popoveroptions.php:821
+msgid "Show the banner on?"
+msgstr "Afficher la bannière sur ?"
+
+#: popoveroptions.php:821
+msgid "All Pages"
+msgstr "Toutes les pages"
+
+#: popoveroptions.php:821
+msgid "HomePage Only"
+msgstr "Seulement HomePage"
+
+#: popoveroptions.php:821
+msgid "Specific Pages Only"
+msgstr "Pages spécifiques Seulement"
+
+#: popoveroptions.php:824
+msgid "Page Titles"
+msgstr "les titres de page"
+
+#: popoveroptions.php:824
+msgid ""
+"Titles of the page separated by commas on which to show the banner.(Case "
+"Sensitive)"
+msgstr ""
+"Titres de la page séparés par des virgules sur lesquelles montrer la "
+"bannière . ( Sensible à la casse )"
+
+#: popoveroptions.php:827
+msgid "Placement: Div ID"
+msgstr "le Placement: div id"
+
+#: popoveroptions.php:827
+msgid ""
+"Id of div or any other html element  in which popover launch button should "
+"appear"
+msgstr ""
+"Id d' autre élément html div ou tout dans lequel bouton de lancement de "
+"popover devrait apparaître"
+
+#: popoveroptions.php:827
+msgid ""
+"Note If placing into a Post, manually add a new DIV layer in your post like "
+"this"
+msgstr ""
+"Remarque Si vous placez dans un Post, ajouter manuellement une nouvelle "
+"couche de DIV dans votre message comme celui-ci"
+
+#: popoveroptions.php:827
+msgid "Then add \"popoverdiv\" in the box above"
+msgstr "Puis ajouter \" popoverdiv \" dans le tableau ci-dessus"
+
+#: popoveroptions.php:827
+msgid "Placement of Popover Launch Button?"
+msgstr "Placement du bouton de lancement Popover ?"
+
+#: popoveroptions.php:827
+msgid "Start of Div"
+msgstr "Début de la Div"
+
+#: popoveroptions.php:827
+msgid "End of Div"
+msgstr "Fin de Div"
+
+#: popoveroptions.php:838
+msgid "Save Window"
+msgstr "Sauvegarder fenêtre"
+
+#: popoveroptions.php:865
+msgid "Edit Popover Theme"
+msgstr "Modifier fenêtre Theme"
+
+#: popoveroptions.php:868
+msgid "New Popover Theme"
+msgstr "Nouvelle Thême popover"
+
+#: popoveroptions.php:959
+msgid "Settings"
+msgstr "PARAMETRES"
+
+#: popoveroptions.php:960
+msgid "Colors"
+msgstr "Couleurs"
+
+#: popoveroptions.php:964
+msgid "Theme Name"
+msgstr "thême nome"
+
+#: popoveroptions.php:966
+msgid "Size"
+msgstr "Taille"
+
+#: popoveroptions.php:968
+msgid "Position"
+msgstr "la position"
+
+#: popoveroptions.php:973
+msgid "Your Title Here!"
+msgstr "Votre titre ici !"
+
+#: popoveroptions.php:974
+msgid "Your Footer Here!"
+msgstr "Votre pied de page Ici !"
+
+#: popoveroptions.php:975
+msgid "Title Icon"
+msgstr "Titre Icône"
+
+#: popoveroptions.php:977
+msgid "accept"
+msgstr "Acceptez"
+
+#: popoveroptions.php:978
+msgid "add"
+msgstr "ajouter"
+
+#: popoveroptions.php:979
+msgid "browse"
+msgstr "Feuilleter"
+
+#: popoveroptions.php:980
+msgid "calendar"
+msgstr "le calendrier"
+
+#: popoveroptions.php:981
+msgid "cart"
+msgstr "le chariot"
+
+#: popoveroptions.php:982
+msgid "check"
+msgstr "vérifier"
+
+#: popoveroptions.php:983
+msgid "clipboard"
+msgstr "presse-papiers"
+
+#: popoveroptions.php:984
+msgid "color wheel"
+msgstr "palette de couleurs"
+
+#: popoveroptions.php:985
+msgid "comments"
+msgstr "les commentaires"
+
+#: popoveroptions.php:986
+msgid "date"
+msgstr "date"
+
+#: popoveroptions.php:987
+msgid "default"
+msgstr "défaut"
+
+#: popoveroptions.php:988
+msgid "delete"
+msgstr "effacer"
+
+#: popoveroptions.php:989
+msgid "disk"
+msgstr "disque"
+
+#: popoveroptions.php:990
+msgid "email"
+msgstr "email"
+
+#: popoveroptions.php:991
+msgid "error"
+msgstr "Erreur"
+
+#: popoveroptions.php:992
+msgid "folder"
+msgstr "dossier"
+
+#: popoveroptions.php:993
+msgid "gear"
+msgstr "équipement"
+
+#: popoveroptions.php:994
+msgid "info"
+msgstr "info"
+
+#: popoveroptions.php:995
+msgid "lightning"
+msgstr "foudre"
+
+#: popoveroptions.php:996
+msgid "lock"
+msgstr "écluse"
+
+#: popoveroptions.php:997
+msgid "money"
+msgstr "de l'argent"
+
+#: popoveroptions.php:998
+msgid "page"
+msgstr "page"
+
+#: popoveroptions.php:999
+msgid "page edit"
+msgstr "page modifier"
+
+#: popoveroptions.php:1000
+msgid "people"
+msgstr "personnes"
+
+#: popoveroptions.php:1001
+msgid "plug"
+msgstr "prise de courant"
+
+#: popoveroptions.php:1002
+msgid "search"
+msgstr "chercher"
+
+#: popoveroptions.php:1003
+msgid "smiley"
+msgstr "smiley"
+
+#: popoveroptions.php:1004
+msgid "star"
+msgstr "star"
+
+#: popoveroptions.php:1005
+msgid "user"
+msgstr "utilisateur"
+
+#: popoveroptions.php:1006
+msgid "wand"
+msgstr "baguette magique"
+
+#: popoveroptions.php:1007
+msgid "warning"
+msgstr "alerte"
+
+#: popoveroptions.php:1011 popoveroptions.php:1018
+msgid "Close Button"
+msgstr "Bouton Fermer "
+
+#: popoveroptions.php:1012
+msgid "Red Close Button"
+msgstr "Rouge Button Fermer"
+
+#: popoveroptions.php:1013
+msgid "White Close Button"
+msgstr "Blanc bouton de fermeture"
+
+#: popoveroptions.php:1014
+msgid "Black Close Button"
+msgstr "bouton de fermeture noir"
+
+#: popoveroptions.php:1021
+msgid "Drag & Drop"
+msgstr "glisser déposer"
+
+#: popoveroptions.php:1024
+msgid "Resizable"
+msgstr "redimensionnable"
+
+#: popoveroptions.php:1027
+msgid "Scrollbar"
+msgstr "Barre de défilement"
+
+#: popoveroptions.php:1030
+msgid "Fade in effect"
+msgstr "Fade en vigueur"
+
+#: popoveroptions.php:1033
+msgid "Fade out effect"
+msgstr "Fade out effet"
+
+#: popoveroptions.php:1036
+msgid "Clicking Outside Closes Window"
+msgstr "En cliquant sur l'extérieur Ferme la fenêtre"
+
+#: popoveroptions.php:1039
+msgid "Outside Shadow Effect"
+msgstr "En dehors de l'effet Ombre"
+
+#: popoveroptions.php:1042
+msgid "Shadow Options"
+msgstr "options d'ombre"
+
+#: popoveroptions.php:1049
+msgid "Z-index Level"
+msgstr "Z-index de niveau"
+
+#: popoveroptions.php:1055
+msgid "Title Font"
+msgstr "Titre de la police"
+
+#: popoveroptions.php:1067
+msgid "Font Style"
+msgstr "Style de police"
+
+#: popoveroptions.php:1084
+msgid "Title Color"
+msgstr "Titre Couleur"
+
+#: popoveroptions.php:1089
+msgid "Title Padding"
+msgstr "Titre Rembourrage"
+
+#: popoveroptions.php:1104
+msgid "Round Corners"
+msgstr "Coins arrondis"
+
+#: popoveroptions.php:1121
+msgid "Window Color"
+msgstr "Fenêtre Couleur"
+
+#: popoveroptions.php:1127
+msgid "Window Padding"
+msgstr "fenêtre Rembourrage"
+
+#: popoveroptions.php:1143
+msgid "Page Border"
+msgstr "Bordure de page"
+
+#: popoveroptions.php:1154
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: popoveroptions.php:1161
+msgid "Page Color"
+msgstr "Couleur de page"
+
+#: popoveroptions.php:1167
+msgid "Overlay Color"
+msgstr "overlay couleur"
+
+#: popoveroptions.php:1173
+msgid "Overlay Opacity"
+msgstr "Opacité overlay"
+
+#: popoveroptions.php:1204
+msgid "Save Theme"
+msgstr "Sauvegarder Thême"
+
+#: popoverwindow.php:32
+msgid "Buy Full Version"
+msgstr "Acheter la version complète"
+
+#: popoverwindow.php:4
+msgid "Popover Windows (Free Version)"
+msgstr "fenêtres popover (Version gratuite)"
+
+#: popoverwindow.php:6
+msgid ""
+"Create professional popover windows for any page on your Wordpress site."
+msgstr ""
+"Créer des fenêtres popover professionnels pour une page sur votre site "
+"Wordpress."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "statistiques hebdomadaires..."
+
+#~ msgid "Monthly Stats"
+#~ msgstr "Statistiques mensuelles"
+
+#~ msgid "Month"
+#~ msgstr "Mois"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Week"
+#~ msgstr "Semaine"
+
+#~ msgid "Clicks"
+#~ msgstr "Clics"
+
+#~ msgid "Impressions"
+#~ msgstr "Impressions"
+
+#~ msgid "Opens"
+#~ msgstr "Ouvertures"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "Taux de Clics"
+
+#~ msgid "Monthly"
+#~ msgstr "Mensuelles"
+
+#~ msgid "Daily"
+#~ msgstr "Quotidiennes"
+
+#~ msgid "Weekly"
+#~ msgstr "Hebdomadaire"
+
+#~ msgid "Stats History"
+#~ msgstr "Statistiques Histoire"
+
+#~ msgid "No history found."
+#~ msgstr "Pas d'historique."
+
+#~ msgid "My Popover Windows Monthly Stats"
+#~ msgstr "Mon fenêtres popover  Statistiques mensuelles"
+
+#~ msgid "Imp. this month"
+#~ msgstr "IMP. ce mois"
+
+#~ msgid "Opens this month"
+#~ msgstr "Ouvre  ce mois"
+
+#~ msgid "Clicks this month"
+#~ msgstr "Clics ce mois"
+
+#~ msgid "History"
+#~ msgstr "Histoire"
+
+#~ msgid "HISTORY"
+#~ msgstr "Histoire"
+
+#~ msgid "You have currently no stats for this month"
+#~ msgstr "Vous avez actuellement Aucune donnée pour ce mois-ci"
+
+#~ msgid "My Popover Windows Weekly Stats"
+#~ msgstr "Mon fenêtres popover  Statistiques Hebdomadaire"
+
+#~ msgid "Imp. this week"
+#~ msgstr "IMP. cette semaine"
+
+#~ msgid "Opens this week"
+#~ msgstr "Ouvre  cette semaine"
+
+#~ msgid "Clicks this week"
+#~ msgstr "Clics cette semaine"
+
+#~ msgid "You have currently no stats for this week"
+#~ msgstr "Vous avez actuellement Aucune donnée pour cette semaine"
+
+#~ msgid "You have currently no popover themes"
+#~ msgstr "Vous avez pour le moment aucune thèmes popover"
+
+#~ msgid "Expandable Banners"
+#~ msgstr "Bannières Extensibles"
+
+#~ msgid "Add New Expandable Banner"
+#~ msgstr "Ajouter Nouvelle bannière extensible"
+
+#~ msgid "Melodic Media Expandable Banner"
+#~ msgstr "Mélodique Media bannière extensible"
+
+#~ msgid "My Expandable Banners Daily Stats"
+#~ msgstr "Mes Stats quotidienne de bannières extensibles"
+
+#~ msgid "Expandable Banner"
+#~ msgstr "Bannière extensible"
+
+#~ msgid "Banner Name"
+#~ msgstr "Nom de la bannière"
+
+#~ msgid "CTR"
+#~ msgstr "CTR"
+
+#~ msgid "You have currently no expandable banners"
+#~ msgstr "Vous avez pour le moment aucune Bannières extensibles"
+
+#~ msgid "1. Save and view daily stats for 1 banner."
+#~ msgstr ""
+#~ "1. Enregistrer et afficher les statistiques quotidiennes pour une "
+#~ "bannière."
+
+#~ msgid "2. Only \"center to center\" direction expanding option."
+#~ msgstr "2. Seul « centre à centre » l'option expansion de direction."
+
+#~ msgid ""
+#~ "1. Save and view daily, weekly and monthly stats for unlimited banners."
+#~ msgstr ""
+#~ "1. Enregistrez et vue quotidienne , les statistiques hebdomadaires et "
+#~ "mensuels pour les bannières illimitées ."
+
+#~ msgid "2. Expand in any direction."
+#~ msgstr "2. Développer dans tous les sens ."
+
+#~ msgid "My Expandable Banners"
+#~ msgstr "Mes bannières extensibles"
+
+#~ msgid "You have currently no expandable banners."
+#~ msgstr "Vous n'avez actuellement aucune Bannières extensibles"
+
+#~ msgid "Uploading"
+#~ msgstr "téléchargement"
+
+#~ msgid "Only jpeg, png and gif images could be uploaded"
+#~ msgstr ""
+#~ "Seuls les formats JPEG , PNG et GIF images peuvent être téléchargées"
+
+#~ msgid "Size exceeds 50kb limit"
+#~ msgstr "Taille dépasse la limite de 50kb"
+
+#~ msgid "Uploaded"
+#~ msgstr "Téléchargé"
+
+#~ msgid "Size exceeds 250kb limit"
+#~ msgstr "Taille dépasse la limite de 250kb"
+
+#~ msgid "Only swf file could be uploaded"
+#~ msgstr "Seuls les fichiers swf pu être téléchargé"
+
+#~ msgid "Please make sure first banner, main banner images are uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que la première bannière, images principales "
+#~ "bannières sont téléchargés"
+
+#~ msgid "Please make sure first and main flash banner files are uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que les premiers et principaux fichiers "
+#~ "flash bannières sont téléchargés"
+
+#~ msgid "Please make sure close button image is uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que l'image de bouton de fermeture est "
+#~ "téléchargé"
+
+#~ msgid "Please make sure backup image is uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que l'image de sauvegarde est téléchargé"
+
+#~ msgid "Banner with this name already exists.Please Change the name"
+#~ msgstr "Bannière avec ce nom déjà exists.Please Changez le nom"
+
+#~ msgid "Previous Image deleted. Make sure to save banner"
+#~ msgstr "Image précédente supprimé . Veillez à enregistrer bannière"
+
+#~ msgid "Previous flash deleted. Make sure to save banner"
+#~ msgstr "Flash précédente supprimé . Veillez à enregistrer bannière"
+
+#~ msgid "Correct Errors"
+#~ msgstr "Correction des erreurs"
+
+#~ msgid "Edit Expandable Banner"
+#~ msgstr "Modifier extensible Bannière"
+
+#~ msgid "New Expandable Banner"
+#~ msgstr "Nouvelle bannière extensible"
+
+#~ msgid "Show the banner only once per day?"
+#~ msgstr "Afficher la bannière qu'une seule fois par jour ?"
+
+#~ msgid "Type of banner:"
+#~ msgstr "Type de bannière :"
+
+#~ msgid "Image Banner"
+#~ msgstr "Bannière de l'image"
+
+#~ msgid "Flash Banner"
+#~ msgstr "Bannière de l'flash"
+
+#~ msgid "HTML Banner"
+#~ msgstr "Bannière de l'html"
+
+#~ msgid "First/Open Banner:"
+#~ msgstr "Première / Open Bannière:"
+
+#~ msgid "Change Image (jpg, gif, png, max file size 50kb)"
+#~ msgstr "Changer l'image ( jpg , gif, png , Taille max 50kb )"
+
+#~ msgid "Upload your Image (jpg, gif, png, max file size 50kb)"
+#~ msgstr "Téléchargez votre image ( jpg , gif, png , Taille max 50kb )"
+
+#~ msgid "Expand On"
+#~ msgstr "Développer Sur"
+
+#~ msgid "Rollover"
+#~ msgstr "Rouler"
+
+#~ msgid "Click"
+#~ msgstr "Cliquez"
+
+#~ msgid "2nd Banner:"
+#~ msgstr "une deuxième bannière"
+
+#~ msgid "Change Image (jpg, gif, png, max file size 250kb)"
+#~ msgstr "Changer l'image ( jpg , gif, png , Taille max 250kb )"
+
+#~ msgid "Upload your Image (jpg, gif, png, max file size 250kb)"
+#~ msgstr "Téléchargez votre image ( jpg , gif, png , Taille max 250kb )"
+
+#~ msgid "Please set the URL you want it to link to http://"
+#~ msgstr ""
+#~ "S'il vous plaît mettre l'URL que vous voulez faire un lien vers http : //"
+
+#~ msgid "Open link in new window?"
+#~ msgstr "Ouvrir le lien dans une nouvelle fenêtre?"
+
+#~ msgid "First/Open Flash Banner:"
+#~ msgstr "Première / Open Flash Bannière:"
+
+#~ msgid "Change First/Open banner flash file(swf)"
+#~ msgstr "Changer Premier/Ouverte fichier bannière flash ( swf )"
+
+#~ msgid "Upload your first/open banner flash file(swf)"
+#~ msgstr "Téléchargez votre premier/ouverte fichier bannière  flash ( swf )"
+
+#~ msgid ""
+#~ "Add this Actionscript on link or button to open/expand banner on click"
+#~ msgstr ""
+#~ "Ajouter cette Actionscript sur ​​le lien ou sur le bouton pour ouvrir / "
+#~ "étendre bannière sur clic"
+
+#~ msgid "To open banner on rollover add this Actionscript"
+#~ msgstr "Pour ouvrir bannière sur rollover ajouter cette Actionscript"
+
+#~ msgid "2nd Flash Banner:"
+#~ msgstr "une deuxième flash bannière"
+
+#~ msgid ""
+#~ "If you want to track clicks on flash banner.\n"
+#~ "  Add this Actionscript on Ad link"
+#~ msgstr ""
+#~ "Si vous voulez suivre les clics sur bannière flash .\n"
+#~ "  Ajouter cette Actionscript sur ​​le lien de l'annonce"
+
+#~ msgid ""
+#~ "where 'enter_banner_name' is the name of your expandable banner.Make sure "
+#~ "that you replace the spaces in name with '_'."
+#~ msgstr ""
+#~ "où « enter_banner_name ' est le nom de votre banner.Make extensible vous "
+#~ "que vous remplacez les espaces dans le nom de ' _ ' ."
+
+#~ msgid "Change 2nd banner flash file(swf)"
+#~ msgstr "Changer deuxième fichier bannière flash ( swf )"
+
+#~ msgid "Upload your 2nd banner flash file(swf)"
+#~ msgstr "Téléchargez votre deuxième fichier bannière  flash ( swf )"
+
+#~ msgid "Will you have a close button in your flash file?"
+#~ msgstr "Aurez-vous un bouton de fermeture dans votre fichier flash ?"
+
+#~ msgid ""
+#~ "Add a visible close button in your main banner flash file.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "Ajouter un bouton de fermeture visible dans votre fichier principal "
+#~ "bannière flash .\n"
+#~ "  Sur ce bouton ajouter cette Actionscript"
+
+#~ msgid "To close banner on rollover add this Actionscript"
+#~ msgstr "Pour fermer bannière sur rollover ajouter cette Actionscript"
+
+#~ msgid "Do you want to have backup image for your flash file?"
+#~ msgstr "Voulez-vous d'avoir l'image de sauvegarde de votre fichier flash ?"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Changer Première/Ouverte image  bannière de sauvegarde ( jpg , gif, png , "
+#~ "Taille max 250kb )"
+
+#~ msgid ""
+#~ "Upload your First/Open banner backup image (jpg, gif, png, max file size "
+#~ "50kb)"
+#~ msgstr ""
+#~ "Téléchargez votre image bannière de sauvegarde Premier / Open ( jpg , "
+#~ "gif, png , Taille max 50kb )"
+
+#~ msgid "Change 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Changer l'image deuxième bannière de sauvegarde ( jpg , gif, png , Taille "
+#~ "max 250kb )"
+
+#~ msgid ""
+#~ "Upload your 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Téléchargez votre photo deuxième bannière de sauvegarde ( jpg , gif, "
+#~ "png , Taille max 250kb )"
+
+#~ msgid "First/Open HTML Banner:"
+#~ msgstr "Première / Open HTML Bannière:"
+
+#~ msgid ""
+#~ "In your html code include this code in onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "Dans votre code html inclure ce code dans l'événement onclick ou href\n"
+#~ "  pour ouvrir principale html bannière"
+
+#~ msgid "Enter HTML Code for your First Banner"
+#~ msgstr "Entrez le code HTML pour votre première bannière"
+
+#~ msgid "Enter the width of first html banner"
+#~ msgstr "Entrez la largeur de la première bannière html"
+
+#~ msgid "Enter the heigth of first html banner"
+#~ msgstr "Entrez le hauteur de la première bannière html"
+
+#~ msgid "Main HTML Banner:"
+#~ msgstr "Principal HTML Bannière:"
+
+#~ msgid ""
+#~ "If you want to track clicks on your main html banner\n"
+#~ "  add this code to onclick event of your ad link"
+#~ msgstr ""
+#~ "Si vous voulez suivre les clics sur votre bannière principale html\n"
+#~ "  ajouter ce code à l'événement onclick de votre annonce lien"
+
+#~ msgid "Main Banner Type"
+#~ msgstr "Type de principal bannière :"
+
+#~ msgid "Html Code"
+#~ msgstr "Le code HTML"
+
+#~ msgid "External file"
+#~ msgstr "fichier externe"
+
+#~ msgid "Enter HTML Code for your Main Banner"
+#~ msgstr "Entrez le code HTML pour votre bannière principale"
+
+#~ msgid "Enter full Link for your Main Banner File"
+#~ msgstr "Entrez pleine Lien pour votre fichier bannière principale"
+
+#~ msgid ""
+#~ "The file could be .html or .php e.g 'http://www.someserver.com/somefile."
+#~ "php'"
+#~ msgstr ""
+#~ "Le fichier peut être .html ou .php e.g ' http://www.someserver.com/"
+#~ "somefile.php '"
+
+#~ msgid "Enter the width of main html banner"
+#~ msgstr "Entrez la largeur de la première bannière html"
+
+#~ msgid "Enter the heigth of main html banner"
+#~ msgstr "Entrez le hauteur de la première bannière html"
+
+#~ msgid "Does your Main HTML Code contains Javascript?"
+#~ msgstr "Est-ce que votre code HTML principal Code contient Javascript ?"
+
+#~ msgid "Use a Close button?"
+#~ msgstr "Utilisez un bouton Fermer ?"
+
+#~ msgid "Close Button:"
+#~ msgstr "Bouton Fermer :"
+
+#~ msgid "Use our generic close button"
+#~ msgstr "Utilisez notre bouton Fermer générique"
+
+#~ msgid "Or, Upload your own"
+#~ msgstr "Ou , Téléchargez votre propre"
+
+#~ msgid "Select 1 close image:"
+#~ msgstr "Sélectionnez 1 fermer l'image :"
+
+#~ msgid "Set Placement of close button:"
+#~ msgstr "Réglez placement de bouton de fermeture :"
+
+#~ msgid "Top-Left"
+#~ msgstr "En haut à gauche"
+
+#~ msgid "Top-Right"
+#~ msgstr "En haut à droite"
+
+#~ msgid "Bottom-Left"
+#~ msgstr "En bas à gauche"
+
+#~ msgid "Bottom-Right"
+#~ msgstr "En bas à droite"
+
+#~ msgid "Do you want close button on outside?"
+#~ msgstr "Voulez-vous bouton de fermeture de l'extérieur ?"
+
+#~ msgid "Enter the code to add to close button:"
+#~ msgstr "Entrez le code à ajouter bouton pour fermer :"
+
+#~ msgid "Expand Direction:"
+#~ msgstr "Développer Direction :"
+
+#~ msgid "Center-Center (For more direction options buy the full version)"
+#~ msgstr ""
+#~ "Centre-Centre ( Pour plus d'options de direction acheter la version "
+#~ "complète )"
+
+#~ msgid "Animate?"
+#~ msgstr "Animer?"
+
+#~ msgid "YES"
+#~ msgstr "Oui"
+
+#~ msgid "NO"
+#~ msgstr "Non"
+
+#~ msgid "Animation Speed"
+#~ msgstr "La vitesse d'animation"
+
+#~ msgid "Will this be a Corner Page Peel Banner?"
+#~ msgstr "Sera-ce un coin Peel page Banner?"
+
+#~ msgid "Will your banner auto-open?"
+#~ msgstr "Votre bannière sera auto- ouverte ?"
+
+#~ msgid "Auto-open the banner after"
+#~ msgstr "Auto - ouvrir la bannière après"
+
+#~ msgid "seconds  - Set 0 for right away."
+#~ msgstr "secondes - Mettre 0 pour tout de suite."
+
+#~ msgid "Will your banner auto-close?"
+#~ msgstr "Votre bannière fermeture automatique ?"
+
+#~ msgid "Auto-close the banner after"
+#~ msgstr "Auto - fermer la bannière après"
+
+#~ msgid "seconds  - Default is set to 10"
+#~ msgstr "secondes - par défaut est de 10"
+
+#~ msgid "Placement: First Item on Page"
+#~ msgstr "le Placement: Première question à la page"
+
+#~ msgid " No"
+#~ msgstr "Non"
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which expandable banner should "
+#~ "appear ."
+#~ msgstr ""
+#~ "Id de div ou tout autre élément HTML dans lequel bannière extensible "
+#~ "devrait apparaître ."
+
+#~ msgid ""
+#~ "*Note If placing into a Post, manually add a new DIV layer in your post "
+#~ "like this"
+#~ msgstr ""
+#~ "* Remarque Si vous placez dans un message , ajouter manuellement une "
+#~ "nouvelle couche de DIV dans votre post comme ça"
+
+#~ msgid "Then add \"expandablepost\" in the box above."
+#~ msgstr "Puis ajouter \" expandablepost \" dans la case ci-dessus."
+
+#~ msgid "Placement of Expandable Banner?"
+#~ msgstr "placement de  bannière extensible"
+
+#~ msgid "Add CSS above your Expandable Banner"
+#~ msgstr "Ajouter CSS -dessus de votre bannière extensible"
+
+#~ msgid "Add CSS below your Expandable Banner"
+#~ msgstr "Ajouter CSS ci-dessous votre extensible Bannière"
+
+#~ msgid "Make the banner Responsive?"
+#~ msgstr "Faire la bannière Responsive ?"
+
+#~ msgid "Screen size to display on:"
+#~ msgstr "Taille de l'écran pour afficher sur:"
+
+#~ msgid "All Sizes"
+#~ msgstr "Toutes les tailles"
+
+#~ msgid "Desktop Only"
+#~ msgstr "Seulement bureau"
+
+#~ msgid "Tablet Only"
+#~ msgstr "Seulement tablette"
+
+#~ msgid "Mobile Only"
+#~ msgstr "Seulement mobile"
+
+#~ msgid "Screen Width"
+#~ msgstr "Largeur de l'écran"
+
+#~ msgid "Preview Banner"
+#~ msgstr "Aperçu Bannière"
+
+#~ msgid "Save Banner"
+#~ msgstr "Sauvegarder Bannière"
+
+#~ msgid "Expandable Banners (Free Version)"
+#~ msgstr "Bannières extensibles (version gratuite )"
+
+#~ msgid ""
+#~ "Create professional expandable banners for any page on your Wordpress "
+#~ "site."
+#~ msgstr ""
+#~ "Créer des bannières extensibles professionnels pour une page sur votre "
+#~ "site Wordpress ."
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which pushdown banner should "
+#~ "appear ."
+#~ msgstr ""
+#~ "Id d' autre élément HTML div ou toute dans lequel pushdown bannière "
+#~ "devrait apparaître ."
+
+#~ msgid ""
+#~ "Create professional expandable banners for any page on your Wordpress site"
+#~ msgstr ""
+#~ "Créer des bannières extensibles professionnels pour une page sur votre "
+#~ "site Wordpress"

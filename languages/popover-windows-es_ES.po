@@ -1,0 +1,726 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Melodic Media
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-09 11:28+0200\n"
+"PO-Revision-Date: 2016-02-09 11:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: popoveroptions.php:15
+msgid "Theme with this name already exists.Please Change the name"
+msgstr "El tema con este nombre ya exists.Please Cambiar el nombre"
+
+#: popoveroptions.php:16
+msgid "Window with this name already exists.Please Change the name"
+msgstr "Ventana con este nombre ya exists.Please Cambiar el nombre"
+
+#: popoveroptions.php:17
+msgid "Fill this field"
+msgstr "Llenar este campo"
+
+#: popoveroptions.php:18
+msgid "Please enter valid email address"
+msgstr "Por favor, ingrese un correo electrónico válido"
+
+#: popoveroptions.php:19
+msgid "Enter only number"
+msgstr "Programar el número"
+
+#: popoveroptions.php:429
+msgid "Change your title here!"
+msgstr "Cambia el título aquí!"
+
+#: popoveroptions.php:430
+msgid "Change bottom text!"
+msgstr "Cambiar el texto de fondo!"
+
+#: popoveroptions.php:447
+msgid "Popover Windows"
+msgstr "Popover de Windows"
+
+#: popoveroptions.php:448
+msgid "Add New Popover Window"
+msgstr "Añadir Ventana Nueva Popover"
+
+#: popoveroptions.php:449
+msgid "My Themes"
+msgstr "Mis temas"
+
+#: popoveroptions.php:450
+msgid "Daily Stats"
+msgstr "Estadísticas diarias"
+
+#: popoveroptions.php:466 popoveroptions.php:524 popoveroptions.php:575
+#: popoveroptions.php:665 popoveroptions.php:861
+msgid "Melodic Media Popover Windows"
+msgstr "Melodic Media Popover Windows"
+
+#: popoveroptions.php:468
+msgid "My Popover Windows Daily Stats"
+msgstr "Mis popover de Windows Estadísticas Diarias"
+
+#: popoveroptions.php:475 popoveroptions.php:584
+msgid "Popover Window Name"
+msgstr "Nombre Lanner"
+
+#: popoveroptions.php:475
+msgid "Imp. today"
+msgstr "impresiones hoy"
+
+#: popoveroptions.php:475
+msgid "Opens today"
+msgstr "abre hoy"
+
+#: popoveroptions.php:475
+msgid "Clicks today"
+msgstr "clics hoy"
+
+#: popoveroptions.php:481
+msgid "You have currently no stats for today"
+msgstr "Que tiene actualmente hay estadísticas para hoy"
+
+#: popoveroptions.php:486 popoveroptions.php:543 popoveroptions.php:598
+msgid "Free version includes"
+msgstr "La versión gratuita incluye"
+
+#: popoveroptions.php:487 popoveroptions.php:544 popoveroptions.php:599
+msgid "- Save and view daily stats for 1 window."
+msgstr "- Guardar y ver las estadísticas diarias de 1 ventana."
+
+#: popoveroptions.php:488 popoveroptions.php:545 popoveroptions.php:600
+msgid "- Save only 1 new theme."
+msgstr "- Guardar sólo el 1 tema nuevo ."
+
+#: popoveroptions.php:490 popoveroptions.php:547 popoveroptions.php:602
+msgid "Full version includes"
+msgstr "La versión completa incluye"
+
+#: popoveroptions.php:491 popoveroptions.php:548 popoveroptions.php:603
+msgid "- Save unlimited windows."
+msgstr "- Guardar ventanas ilimitadas ."
+
+#: popoveroptions.php:492 popoveroptions.php:549 popoveroptions.php:604
+msgid "- Save unlimited themes."
+msgstr "- Guardar temas ilimitadas."
+
+#: popoveroptions.php:493 popoveroptions.php:550 popoveroptions.php:605
+msgid "- Full stats for daily, weekly, monthly with 6 month history ."
+msgstr ""
+"- Estadísticas completas para diarios, semanales , mensuales con la historia "
+"de 6 meses."
+
+#: popoveroptions.php:528
+msgid "My Popover Themes"
+msgstr "Mis popover Temas"
+
+#: popoveroptions.php:535
+msgid "Popover Theme Name"
+msgstr "Popover Nombre del tema"
+
+#: popoveroptions.php:535 popoveroptions.php:584
+msgid "Actions"
+msgstr "Comportamiento"
+
+#: popoveroptions.php:537 popoveroptions.php:589
+msgid "EDIT"
+msgstr "EDITAR"
+
+#: popoveroptions.php:577
+msgid "My Popover Windows"
+msgstr "Mi Popover de Windows"
+
+#: popoveroptions.php:589
+msgid "PREVIEW"
+msgstr "AVANCE"
+
+#: popoveroptions.php:593
+msgid "You have currently no popover windows."
+msgstr "Que tiene actualmente no hay ventanas popover ."
+
+#: popoveroptions.php:669
+msgid "Edit Popover Window"
+msgstr "Ventana de edición Popover"
+
+#: popoveroptions.php:672
+msgid "New Popover Window"
+msgstr "Ventana nueva Popover"
+
+#: popoveroptions.php:767
+msgid "Window Name"
+msgstr "Nombre ventana"
+
+#: popoveroptions.php:768
+msgid "Theme"
+msgstr "Tema"
+
+#: popoveroptions.php:781
+msgid "Window Title"
+msgstr "Título de la ventana"
+
+#: popoveroptions.php:782
+msgid "Window Footer"
+msgstr "ventana de pie de página"
+
+#: popoveroptions.php:783
+msgid "Popover Window Content"
+msgstr "Contenido Popover ventana"
+
+#: popoveroptions.php:783
+msgid "URL"
+msgstr "URL"
+
+#: popoveroptions.php:783
+msgid "HTML"
+msgstr "HTML"
+
+#: popoveroptions.php:783
+msgid ""
+"(All popover windows are responsive by default, just make sure your URL or "
+"HTML window content is responsive.)"
+msgstr ""
+"( Todas las ventanas popover responden de forma predeterminada , sólo "
+"asegúrese de que su contenido de URL o una ventana HTML es sensible . )"
+
+#: popoveroptions.php:783
+msgid ""
+"To calculate clicks on your window add this code to onclick event in your "
+"code"
+msgstr ""
+"Para el cálculo de clics en su ventana de añadir este código al evento "
+"onclick en su código"
+
+#: popoveroptions.php:787
+msgid ""
+"Where My_Window is the name you selected for your window. Replace spaces in "
+"name with '_'."
+msgstr ""
+"Donde my_window es el nombre que ha seleccionado para su ventana. Sustituir "
+"los espacios de nombre con ' _ ' ."
+
+#: popoveroptions.php:790
+msgid "The HTML link code you can use to close this window is."
+msgstr ""
+"El código de enlace HTML que puede utilizar para cerrar esta ventana es ."
+
+#: popoveroptions.php:791
+msgid "CLOSE THIS WINDOW"
+msgstr "CIERRA ESTA VENTANA"
+
+#: popoveroptions.php:793
+msgid "Launch Window URL"
+msgstr "URL ventana de lanzamiento"
+
+#: popoveroptions.php:793
+msgid ""
+"(add any url but add the extension (.htm, .html, .php, .asp, etc. ) at the "
+"end such as"
+msgstr ""
+"( Añadir cualquier url además de añadir la extensión ( .htm , .html , ."
+"php , .asp , etc. ) al final como"
+
+#: popoveroptions.php:796
+msgid "Copy Paste HTML Here"
+msgstr "Copiar Pegar HTML Aquí"
+
+#: popoveroptions.php:799
+msgid "Launch window automatically after"
+msgstr "ventana de lanzamiento automáticamente después de"
+
+#: popoveroptions.php:799
+msgid "seconds"
+msgstr "segundos"
+
+#: popoveroptions.php:800
+msgid "Add Cookie - Display only once, display again after"
+msgstr "Añadir Cookie - Mostrar sólo una vez, mostrar de nuevo después de"
+
+#: popoveroptions.php:801
+msgid "hours"
+msgstr "horas"
+
+#: popoveroptions.php:803
+msgid "HTML for Window Launch Button"
+msgstr "HTML para el botón de la ventana de lanzamiento"
+
+#: popoveroptions.php:804
+msgid ""
+"It could be text or image which when clicked should open Popover window."
+msgstr ""
+"Podría ser texto o imagen que cuando se hace clic se debe abrir la ventana "
+"Popover ."
+
+#: popoveroptions.php:808
+msgid "Add extra code when the popover window launches?"
+msgstr "Añadir un código adicional cuando se abre la ventana popover ?"
+
+#: popoveroptions.php:808 popoveroptions.php:815
+msgid "Yes"
+msgstr "Sí"
+
+#: popoveroptions.php:809 popoveroptions.php:816
+msgid "No"
+msgstr "No"
+
+#: popoveroptions.php:809
+msgid "(the code to execute when popover window is launched)"
+msgstr "(El código a ejecutar cuando se muestre una ventana del popover )"
+
+#: popoveroptions.php:812
+msgid "Enter the code to add to window launch"
+msgstr "Introducir el código para agregar al lanzamiento ventana"
+
+#: popoveroptions.php:815
+msgid "Add extra code to the close button?"
+msgstr "Añadir un código extra para el botón de cierre ?"
+
+#: popoveroptions.php:816
+msgid "(the code to execute when close button is clicked)"
+msgstr "(El código a ejecutar cuando se hace clic en el botón de cierre )"
+
+#: popoveroptions.php:819
+msgid "Enter the code to add to close button"
+msgstr "Introducir el código para agregar botón para cerrar"
+
+#: popoveroptions.php:821
+msgid "Show the banner on?"
+msgstr "Mostrar el banner en ?"
+
+#: popoveroptions.php:821
+msgid "All Pages"
+msgstr "Todas las páginas"
+
+#: popoveroptions.php:821
+msgid "HomePage Only"
+msgstr "Sólo Página de Inicio"
+
+#: popoveroptions.php:821
+msgid "Specific Pages Only"
+msgstr "Sólo las páginas específicas"
+
+#: popoveroptions.php:824
+msgid "Page Titles"
+msgstr "Títulos de página"
+
+#: popoveroptions.php:824
+msgid ""
+"Titles of the page separated by commas on which to show the banner.(Case "
+"Sensitive)"
+msgstr ""
+"Títulos de la página separados por comas en el que mostrar la bandera. "
+"( Mayúsculas y minúsculas )"
+
+#: popoveroptions.php:827
+msgid "Placement: Div ID"
+msgstr "Colocación : Div ID"
+
+#: popoveroptions.php:827
+msgid ""
+"Id of div or any other html element  in which popover launch button should "
+"appear"
+msgstr ""
+"Identificación del otro elemento HTML div o cualquier otro en el que debería "
+"aparecer botón de inicio popover"
+
+#: popoveroptions.php:827
+msgid ""
+"Note If placing into a Post, manually add a new DIV layer in your post like "
+"this"
+msgstr ""
+"Nota Si se coloca en un poste , añadir manualmente una nueva capa DIV en su "
+"post como este"
+
+#: popoveroptions.php:827
+msgid "Then add \"popoverdiv\" in the box above"
+msgstr "A continuación, añadir \" popoverdiv \" en el cuadro de arriba"
+
+#: popoveroptions.php:827
+msgid "Placement of Popover Launch Button?"
+msgstr "La colocación de Popover botón de inicio ?"
+
+#: popoveroptions.php:827
+msgid "Start of Div"
+msgstr "Inicio de Div"
+
+#: popoveroptions.php:827
+msgid "End of Div"
+msgstr "Fin de la Div"
+
+#: popoveroptions.php:838
+msgid "Save Window"
+msgstr "Guardar ventana"
+
+#: popoveroptions.php:865
+msgid "Edit Popover Theme"
+msgstr "Editar Popover Tema"
+
+#: popoveroptions.php:868
+msgid "New Popover Theme"
+msgstr "Nuevo Tema Popover"
+
+#: popoveroptions.php:959
+msgid "Settings"
+msgstr "ajustes"
+
+#: popoveroptions.php:960
+msgid "Colors"
+msgstr "Colores"
+
+#: popoveroptions.php:964
+msgid "Theme Name"
+msgstr "Nombre tema"
+
+#: popoveroptions.php:966
+msgid "Size"
+msgstr "tamaño"
+
+#: popoveroptions.php:968
+msgid "Position"
+msgstr "Posición"
+
+#: popoveroptions.php:973
+msgid "Your Title Here!"
+msgstr "Su título aquí!"
+
+#: popoveroptions.php:974
+msgid "Your Footer Here!"
+msgstr "Su pie de página aquí!"
+
+#: popoveroptions.php:975
+msgid "Title Icon"
+msgstr "icono del título"
+
+#: popoveroptions.php:977
+msgid "accept"
+msgstr "aceptar"
+
+#: popoveroptions.php:978
+msgid "add"
+msgstr "añadir"
+
+#: popoveroptions.php:979
+msgid "browse"
+msgstr "vistazo"
+
+#: popoveroptions.php:980
+msgid "calendar"
+msgstr "calendario"
+
+#: popoveroptions.php:981
+msgid "cart"
+msgstr "carro"
+
+#: popoveroptions.php:982
+msgid "check"
+msgstr "comprobar"
+
+#: popoveroptions.php:983
+msgid "clipboard"
+msgstr "portapapeles"
+
+#: popoveroptions.php:984
+msgid "color wheel"
+msgstr "rueda de color"
+
+#: popoveroptions.php:985
+msgid "comments"
+msgstr "comentarios"
+
+#: popoveroptions.php:986
+msgid "date"
+msgstr "fecha"
+
+#: popoveroptions.php:987
+msgid "default"
+msgstr "defecto"
+
+#: popoveroptions.php:988
+msgid "delete"
+msgstr "borrar"
+
+#: popoveroptions.php:989
+msgid "disk"
+msgstr "disco"
+
+#: popoveroptions.php:990
+msgid "email"
+msgstr "email"
+
+#: popoveroptions.php:991
+msgid "error"
+msgstr "error"
+
+#: popoveroptions.php:992
+msgid "folder"
+msgstr "carpeta"
+
+#: popoveroptions.php:993
+msgid "gear"
+msgstr "engranaje"
+
+#: popoveroptions.php:994
+msgid "info"
+msgstr "info"
+
+#: popoveroptions.php:995
+msgid "lightning"
+msgstr "relámpago"
+
+#: popoveroptions.php:996
+msgid "lock"
+msgstr "bloquear"
+
+#: popoveroptions.php:997
+msgid "money"
+msgstr "dinero"
+
+#: popoveroptions.php:998
+msgid "page"
+msgstr "página"
+
+#: popoveroptions.php:999
+msgid "page edit"
+msgstr "página de edición"
+
+#: popoveroptions.php:1000
+msgid "people"
+msgstr "gente"
+
+#: popoveroptions.php:1001
+msgid "plug"
+msgstr "enchufe"
+
+#: popoveroptions.php:1002
+msgid "search"
+msgstr "buscar"
+
+#: popoveroptions.php:1003
+msgid "smiley"
+msgstr "smiley"
+
+#: popoveroptions.php:1004
+msgid "star"
+msgstr "estrella"
+
+#: popoveroptions.php:1005
+msgid "user"
+msgstr "usuario"
+
+#: popoveroptions.php:1006
+msgid "wand"
+msgstr "varita mágica"
+
+#: popoveroptions.php:1007
+msgid "warning"
+msgstr "advertencia"
+
+#: popoveroptions.php:1011 popoveroptions.php:1018
+msgid "Close Button"
+msgstr "Cerrar"
+
+#: popoveroptions.php:1012
+msgid "Red Close Button"
+msgstr "Red Cerrar"
+
+#: popoveroptions.php:1013
+msgid "White Close Button"
+msgstr "Blanco Cerrar"
+
+#: popoveroptions.php:1014
+msgid "Black Close Button"
+msgstr "Cerrar negro"
+
+#: popoveroptions.php:1021
+msgid "Drag & Drop"
+msgstr "Arrastrar y soltar"
+
+#: popoveroptions.php:1024
+msgid "Resizable"
+msgstr "de tamaño variable"
+
+#: popoveroptions.php:1027
+msgid "Scrollbar"
+msgstr "Barra de desplazamiento"
+
+#: popoveroptions.php:1030
+msgid "Fade in effect"
+msgstr "Efecto de fundido"
+
+#: popoveroptions.php:1033
+msgid "Fade out effect"
+msgstr "Fade out efecto"
+
+#: popoveroptions.php:1036
+msgid "Clicking Outside Closes Window"
+msgstr "Al hacer clic en el exterior cierra la ventana"
+
+#: popoveroptions.php:1039
+msgid "Outside Shadow Effect"
+msgstr "Fuera efecto de sombra"
+
+#: popoveroptions.php:1042
+msgid "Shadow Options"
+msgstr "Opciones de sombra"
+
+#: popoveroptions.php:1049
+msgid "Z-index Level"
+msgstr "El índice Z Nivel"
+
+#: popoveroptions.php:1055
+msgid "Title Font"
+msgstr "Fuente del titulo"
+
+#: popoveroptions.php:1067
+msgid "Font Style"
+msgstr "Estilo de fuente"
+
+#: popoveroptions.php:1084
+msgid "Title Color"
+msgstr "color del título"
+
+#: popoveroptions.php:1089
+msgid "Title Padding"
+msgstr "título del acolchado"
+
+#: popoveroptions.php:1104
+msgid "Round Corners"
+msgstr "Esquinas redondas"
+
+#: popoveroptions.php:1121
+msgid "Window Color"
+msgstr "color de ventana"
+
+#: popoveroptions.php:1127
+msgid "Window Padding"
+msgstr "Relleno ventana"
+
+#: popoveroptions.php:1143
+msgid "Page Border"
+msgstr "Borde de página"
+
+#: popoveroptions.php:1154
+msgid "Border Color"
+msgstr "Color de la frontera"
+
+#: popoveroptions.php:1161
+msgid "Page Color"
+msgstr "color de página"
+
+#: popoveroptions.php:1167
+msgid "Overlay Color"
+msgstr "superposición de colores"
+
+#: popoveroptions.php:1173
+msgid "Overlay Opacity"
+msgstr "La opacidad de superposición"
+
+#: popoveroptions.php:1204
+msgid "Save Theme"
+msgstr "Guardar tema"
+
+#: popoverwindow.php:32
+msgid "Buy Full Version"
+msgstr "Compra la version completa"
+
+#: popoverwindow.php:4
+msgid "Popover Windows (Free Version)"
+msgstr "Popover de Windows (versión gratuita )"
+
+#: popoverwindow.php:6
+msgid ""
+"Create professional popover windows for any page on your Wordpress site."
+msgstr ""
+"Crear ventanas popover profesionales para cualquier página en su sitio de "
+"WordPress."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "Evolución semanal"
+
+#~ msgid "Monthly Stats"
+#~ msgstr "Estadísticas mensuales"
+
+#~ msgid "Month"
+#~ msgstr "Mes"
+
+#~ msgid "Date"
+#~ msgstr "Fecha"
+
+#~ msgid "Week"
+#~ msgstr "Semana"
+
+#~ msgid "Clicks"
+#~ msgstr "clics"
+
+#~ msgid "Impressions"
+#~ msgstr "impresiones"
+
+#~ msgid "Opens"
+#~ msgstr "abre"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "Clic por calificaciones (%)"
+
+#~ msgid "Monthly"
+#~ msgstr "Mensual"
+
+#~ msgid "Daily"
+#~ msgstr "A diario"
+
+#~ msgid "Weekly"
+#~ msgstr "Semanal"
+
+#~ msgid "Stats History"
+#~ msgstr "Historia estadísticas"
+
+#~ msgid "No history found."
+#~ msgstr "No se encontró la historia"
+
+#~ msgid "My Popover Windows Monthly Stats"
+#~ msgstr "Mis popover de Windows estadísticas mensuales"
+
+#~ msgid "Imp. this month"
+#~ msgstr "Las impresiones de este mes"
+
+#~ msgid "Opens this month"
+#~ msgstr "Abre este mes"
+
+#~ msgid "Clicks this month"
+#~ msgstr "Clics este mes"
+
+#~ msgid "History"
+#~ msgstr "Historia"
+
+#~ msgid "HISTORY"
+#~ msgstr "Historia"
+
+#~ msgid "You have currently no stats for this month"
+#~ msgstr "Que tiene actualmente hay estadísticas para este mes"
+
+#~ msgid "My Popover Windows Weekly Stats"
+#~ msgstr "Mis popover de Windows semanales Estadísticas"
+
+#~ msgid "Imp. this week"
+#~ msgstr "Impresiones esta semana"
+
+#~ msgid "Opens this week"
+#~ msgstr "Se abre esta semana"
+
+#~ msgid "Clicks this week"
+#~ msgstr "Clics esta semana"
+
+#~ msgid "You have currently no stats for this week"
+#~ msgstr "Que tiene actualmente hay estadísticas para esta semana"
+
+#~ msgid "You have currently no popover themes"
+#~ msgstr "Que tiene actualmente no hay temas popover"
